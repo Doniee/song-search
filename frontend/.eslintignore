@@ -1,0 +1,7 @@
+.eslintrc.js
+*.config.js
+*.config.ts
+*/tests/setup.js
+node_modules/
+dist/
+env.d.ts

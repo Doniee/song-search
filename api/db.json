@@ -1,0 +1,6226 @@
+{
+  "songs": [
+    {
+      "id": "5b8e465ab3984c68ed8191ed",
+      "title": "IILWY",
+      "artist": "Rob Scallon",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Rob Scallon IILWY"
+    },
+    {
+      "id": "5b8e4748b3984c68ed819289",
+      "title": "Air (in C)",
+      "artist": "Johann Sebastian Bach",
+      "images": "../src/assets/band_2.jpg",
+      "level": 3,
+      "search": "Johann Sebastian Bach Air (in C)"
+    },
+    {
+      "id": "5b8e4595b3984c68ed819177",
+      "title": "Christmas Elves",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Traditional Christmas Elves"
+    },
+    {
+      "id": "5b8e454db3984c68ed819147",
+      "title": "Morning Mood",
+      "artist": "Edvard Grieg",
+      "images": "",
+      "level": 6,
+      "search": "Edvard Grieg Morning Mood"
+    },
+    {
+      "id": "5bd96f52e8dec32376c432fc",
+      "title": "2nd Movement From Symphony 94",
+      "artist": "Joseph Haydn",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Joseph Haydn 2nd Movement From Symphony 94"
+    },
+    {
+      "id": "5b8e4804b3984c68ed8192f7",
+      "title": "Eine Kleine Nachtmusik",
+      "artist": "Wolfgang Amadeus Mozart",
+      "images": "../src/assets/band_2.jpg",
+      "level": 11,
+      "search": "Wolfgang Amadeus Mozart Eine Kleine Nachtmusik"
+    },
+    {
+      "id": "5b235ea1e8dec31361c24c0a",
+      "title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "The White Stripes Seven Nation Army"
+    },
+    {
+      "id": "5c6d3226e8dec373d7524b24",
+      "title": "Voodoo Child (Slight Return)",
+      "artist": "Jimi Hendrix",
+      "images": "../src/assets/band_2.jpg",
+      "level": 10,
+      "search": "Jimi Hendrix Voodoo Child (Slight Return)"
+    },
+    {
+      "id": "5b14f543e8dec30152a163e1",
+      "title": "A Whole New World",
+      "artist": "Aladdin",
+      "images": "",
+      "level": 8,
+      "search": "Aladdin A Whole New World"
+    },
+    {
+      "id": "5db95ea4e8dec31a41ca8e8b",
+      "title": "Midnight Special",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 5,
+      "search": "Traditional Midnight Special"
+    },
+    {
+      "id": "5ca33eb6e8dec32053a3fa73",
+      "title": "Fast Car (short)",
+      "artist": "Tracy Chapman",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Tracy Chapman Fast Car (short)"
+    },
+    {
+      "id": "5c3714b5e8dec32c6453293c",
+      "title": "The Boys Are Back In Town",
+      "artist": "Thin Lizzy",
+      "images": "../src/assets/band_2.jpg",
+      "level": 3,
+      "search": "Thin Lizzy The Boys Are Back In Town"
+    },
+    {
+      "id": "5b0ebdd7e8dec30a753629d3",
+      "title": "Listen To Your Heart",
+      "artist": "Roxette",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Roxette Listen To Your Heart"
+    },
+    {
+      "id": "5b152559e8dec30152a1eefe",
+      "title": "I Will Survive",
+      "artist": "Gloria Gaynor",
+      "images": "",
+      "level": 13,
+      "search": "Gloria Gaynor I Will Survive"
+    },
+    {
+      "id": "5c63e3c2e8dec35657d9aca8",
+      "title": "Ordinary People",
+      "artist": "John Legend",
+      "images": "../src/assets/band_2.jpg",
+      "level": 10,
+      "search": "John Legend Ordinary People"
+    },
+    {
+      "id": "5bd2fe44e8dec3255a0105b6",
+      "title": "I Will Survive (tutorial)",
+      "artist": "Gloria Gaynor",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Gloria Gaynor I Will Survive (tutorial)"
+    },
+    {
+      "id": "5ca2feece8dec32053a25e35",
+      "title": "Everlong",
+      "artist": "Foo Fighters",
+      "images": "../src/assets/band_2.jpg",
+      "level": 14,
+      "search": "Foo Fighters Everlong"
+    },
+    {
+      "id": "5c07bf15e8dec37f0b1e61f2",
+      "title": "Born Under A Bad Sign",
+      "artist": "Cream",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Cream Born Under A Bad Sign"
+    },
+    {
+      "id": "5c6d348ce8dec373d752857c",
+      "title": "Crosstown Traffic",
+      "artist": "Jimi Hendrix",
+      "images": "../src/assets/band_2.jpg",
+      "level": 1,
+      "search": "Jimi Hendrix Crosstown Traffic"
+    },
+    {
+      "id": "5b6afa2be8dec33f0f5e6d48",
+      "title": "Move Along",
+      "artist": "The All-American Rejects",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "The All-American Rejects Move Along"
+    },
+    {
+      "id": "5b1510d7e8dec30152a1cb95",
+      "title": "Younger Now",
+      "artist": "Miley Cyrus",
+      "images": "../src/assets/band_2.jpg",
+      "level": 7,
+      "search": "Miley Cyrus Younger Now"
+    },
+    {
+      "id": "5b8f7349b3984c1354837499",
+      "title": "Asturias (metal)",
+      "artist": "Isaac Albeniz",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Isaac Albeniz Asturias (metal)"
+    },
+    {
+      "id": "5cee33bce8dec321873e2226",
+      "title": "Ievan Polkka",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 14,
+      "search": "Traditional Ievan Polkka"
+    },
+    {
+      "id": "5bd6d49ae8dec36b42dd228c",
+      "title": "Snow Tutorial",
+      "artist": "Red Hot Chili Peppers",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Red Hot Chili Peppers Snow Tutorial"
+    },
+    {
+      "id": "5b0fee97e8dec30a7537e7a3",
+      "title": "Little Lion Man",
+      "artist": "Mumford & Sons",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Mumford & Sons Little Lion Man"
+    },
+    {
+      "id": "5c5bf1d3e8dec3078bdc1716",
+      "title": "Back At One",
+      "artist": "Brian McKnight",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Brian McKnight Back At One"
+    },
+    {
+      "id": "5b8fc68eb3984c2f89e24b53",
+      "title": "Greensleeves (folk)",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 15,
+      "search": "Traditional Greensleeves (folk)"
+    },
+    {
+      "id": "5b434d8de8dec348bf6a1564",
+      "title": "Shut Up And Drive",
+      "artist": "Rihanna",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Rihanna Shut Up And Drive"
+    },
+    {
+      "id": "5c3f2917e8dec36be7a2d172",
+      "title": "All For You (short)",
+      "artist": "Sister Hazel",
+      "images": "../src/assets/band_2.jpg",
+      "level": 5,
+      "search": "Sister Hazel All For You (short)"
+    },
+    {
+      "id": "5b8fd383b3984c35c0941f16",
+      "title": "The Star-Spangled Banner",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Traditional The Star-Spangled Banner"
+    },
+    {
+      "id": "5b1522bde8dec30152a1eed9",
+      "title": "Millionaire",
+      "artist": "Chris Stapleton",
+      "images": "../src/assets/band_2.jpg",
+      "level": 8,
+      "search": "Chris Stapleton Millionaire"
+    },
+    {
+      "id": "5bfcd038e8dec36b658712a0",
+      "title": "Bendy Song",
+      "artist": "Stevie T",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Stevie T Bendy Song"
+    },
+    {
+      "id": "5da476b1e8dec333b9df87ba",
+      "title": "All My Life",
+      "artist": "Foo Fighters",
+      "images": "../src/assets/band_2.jpg",
+      "level": 3,
+      "search": "Foo Fighters All My Life"
+    },
+    {
+      "id": "5c3eefd1e8dec36be7a13f5c",
+      "title": "Father Of Mine",
+      "artist": "Everclear",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Everclear Father Of Mine"
+    },
+    {
+      "id": "5c3f2686e8dec36be7a2d0e0",
+      "title": "Life Is A Highway (short)",
+      "artist": "Tom Cochrane",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Tom Cochrane Life Is A Highway (short)"
+    },
+    {
+      "id": "5bd2fe14e8dec3255a010289",
+      "title": "Dancing On My Own (tutorial)",
+      "artist": "Calum Scott",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Calum Scott Dancing On My Own (tutorial)"
+    },
+    {
+      "id": "5b8e4693b3984c68ed819215",
+      "title": "Bashie's Bounce",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 7,
+      "search": "Traditional Bashie's Bounce"
+    },
+    {
+      "id": "5c3f263fe8dec36be7a2d0d0",
+      "title": "Life Is A Highway",
+      "artist": "Tom Cochrane",
+      "images": "",
+      "level": 4,
+      "search": "Tom Cochrane Life Is A Highway"
+    },
+    {
+      "id": "5b0fef03e8dec30a7537e7a5",
+      "title": "Better Together",
+      "artist": "Jack Johnson",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Jack Johnson Better Together"
+    },
+    {
+      "id": "5bef4822e8dec318099d0073",
+      "title": "I Get Around",
+      "artist": "The Beach Boys",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "The Beach Boys I Get Around"
+    },
+    {
+      "id": "5dde32f1e8dec30c1e309970",
+      "title": "Annie's Song",
+      "artist": "John Denver",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "John Denver Annie's Song"
+    },
+    {
+      "id": "5c3edcc6e8dec36be7a0fcfe",
+      "title": "Cello Suite No. 1 Part 1 (in G, short)",
+      "artist": "Johann Sebastian Bach",
+      "images": "../src/assets/band_2.jpg",
+      "level": 2,
+      "search": "Johann Sebastian Bach Cello Suite No. 1 Part 1 (in G, short)"
+    },
+    {
+      "id": "5b8e4521b3984c68ed819127",
+      "title": "Slavic Polka Medley",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Traditional Slavic Polka Medley"
+    },
+    {
+      "id": "5da47367e8dec333b9df7515",
+      "title": "Best Of You",
+      "artist": "Foo Fighters",
+      "images": "../src/assets/band_2.jpg",
+      "level": 8,
+      "search": "Foo Fighters Best Of You"
+    },
+    {
+      "id": "5bef48d6e8dec318099d009d",
+      "title": "Scar Tissue",
+      "artist": "Red Hot Chili Peppers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Red Hot Chili Peppers Scar Tissue"
+    },
+    {
+      "id": "5d5e794ce8dec33494af407c",
+      "title": "Schism",
+      "artist": "Tool",
+      "images": "../src/assets/band_2.jpg",
+      "level": 8,
+      "search": "Tool Schism"
+    },
+    {
+      "id": "5bac6055e8dec33e932b1770",
+      "title": "Vals Poetico",
+      "artist": "Felipe Villanueva",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Felipe Villanueva Vals Poetico"
+    },
+    {
+      "id": "5b8e460eb3984c68ed8191bd",
+      "title": "Symphony No 5",
+      "artist": "Ludwig Van Beethoven",
+      "images": "../src/assets/band_2.jpg",
+      "level": 1,
+      "search": "Ludwig Van Beethoven Symphony No 5"
+    },
+    {
+      "id": "5b8e4529b3984c68ed81912d",
+      "title": "Mama Don't Allow",
+      "artist": "Jo' Buddy",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Jo' Buddy Mama Don't Allow"
+    },
+    {
+      "id": "5da473f5e8dec333b9df751c",
+      "title": "About A Girl",
+      "artist": "Nirvana",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Nirvana About A Girl"
+    },
+    {
+      "id": "5b434ba6e8dec348bf69cac9",
+      "title": "Highwayman",
+      "artist": "The Highwaymen",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "The Highwaymen Highwayman"
+    },
+    {
+      "id": "5bd2fce3e8dec3255a00d1c7",
+      "title": "Sweet Home Alabama (tutorial)",
+      "artist": "Lynyrd Skynyrd",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Lynyrd Skynyrd Sweet Home Alabama (tutorial)"
+    },
+    {
+      "id": "5c110384e8dec3290fb42e16",
+      "title": "Carol Of The Bells",
+      "artist": "Mykola Leontovych",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Mykola Leontovych Carol Of The Bells"
+    },
+    {
+      "id": "5b14f34ee8dec30152a163d3",
+      "title": "Everybody Hurts",
+      "artist": "R.E.M.",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "R.E.M. Everybody Hurts"
+    },
+    {
+      "id": "5b14f605e8dec30152a163e7",
+      "title": "Talk Dirty To Me",
+      "artist": "Poison",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Poison Talk Dirty To Me"
+    },
+    {
+      "id": "5b0eb3d0e8dec30a75357f48",
+      "title": "Lean On Me",
+      "artist": "Bill Withers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Bill Withers Lean On Me"
+    },
+    {
+      "id": "5b8fc8edb3984c2f89e24cab",
+      "title": "Torna a Surriento ",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Traditional Torna a Surriento "
+    },
+    {
+      "id": "5ccad35ae8dec37dc845dd90",
+      "title": "bellyache",
+      "artist": "Billie Eilish",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Billie Eilish bellyache"
+    },
+    {
+      "id": "5c3edc4ce8dec36be7a0fcdc",
+      "title": "Cello Suite No. 1 Part 1 (in G, full)",
+      "artist": "Johann Sebastian Bach",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Johann Sebastian Bach Cello Suite No. 1 Part 1 (in G, full)"
+    },
+    {
+      "id": "5b7174aae8dec36155ec9ea7",
+      "title": "Superstar",
+      "artist": "Lupe Fiasco",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Lupe Fiasco Superstar"
+    },
+    {
+      "id": "5d021264e8dec344dd8349b2",
+      "title": "COPYCAT",
+      "artist": "Billie Eilish",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Billie Eilish COPYCAT"
+    },
+    {
+      "id": "5b8e47deb3984c68ed8192e3",
+      "title": "Easter Oratorio (in Am)",
+      "artist": "Johann Sebastian Bach",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Johann Sebastian Bach Easter Oratorio (in Am)"
+    },
+    {
+      "id": "5b0eb2d3e8dec30a75357f42",
+      "title": "Home",
+      "artist": "Phillip Phillips",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Phillip Phillips Home"
+    },
+    {
+      "id": "5b95acf8e8dec336505ed216",
+      "title": "I Want Crazy (in E)",
+      "artist": "Hunter Hayes",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Hunter Hayes I Want Crazy (in E)"
+    },
+    {
+      "id": "5b8e480db3984c68ed8192fd",
+      "title": "La Cucaracha",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Traditional La Cucaracha"
+    },
+    {
+      "id": "5b0e9fdce8dec30a7534b285",
+      "title": "Banana Pancakes",
+      "artist": "Jack Johnson",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Jack Johnson Banana Pancakes"
+    },
+    {
+      "id": "5c6d3426e8dec373d752849c",
+      "title": "Castles Made Of Sand",
+      "artist": "Jimi Hendrix",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Jimi Hendrix Castles Made Of Sand"
+    },
+    {
+      "id": "5b7a6450e8dec343407b2059",
+      "title": "The One I Love",
+      "artist": "R.E.M.",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "R.E.M. The One I Love"
+    },
+    {
+      "id": "5bbda380e8dec362ef95a29c",
+      "title": "L'Amour Oriental",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Traditional L'Amour Oriental"
+    },
+    {
+      "id": "5b8e4708b3984c68ed81925f",
+      "title": "Dance Of The Sugar Plum Fairy",
+      "artist": "Pyotr Ilyich Tchaikovsky",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Pyotr Ilyich Tchaikovsky Dance Of The Sugar Plum Fairy"
+    },
+    {
+      "id": "5d0213a0e8dec344dd8365d2",
+      "title": "Everybody (Backstreet's Back)",
+      "artist": "Backstreet Boys",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Backstreet Boys Everybody (Backstreet's Back)"
+    },
+    {
+      "id": "5d107da2e8dec310a8f357e3",
+      "title": "La Valse d'Amelie (original version)",
+      "artist": "Yann Tiersen",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Yann Tiersen La Valse d'Amelie (original version)"
+    },
+    {
+      "id": "5b4342f3e8dec348bf69071d",
+      "title": "American Girl",
+      "artist": "Tom Petty And The Heartbreakers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Tom Petty And The Heartbreakers American Girl"
+    },
+    {
+      "id": "5b0e9cb7e8dec30a75342a42",
+      "title": "Brown Eyed Girl",
+      "artist": "Van Morrison",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Van Morrison Brown Eyed Girl"
+    },
+    {
+      "id": "5c07c073e8dec37f0b1e6242",
+      "title": "My Friends",
+      "artist": "Red Hot Chili Peppers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Red Hot Chili Peppers My Friends"
+    },
+    {
+      "id": "5bc86518e8dec3682785fe1f",
+      "title": "No More Mr. Nice Guy",
+      "artist": "Alice Cooper",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Alice Cooper No More Mr. Nice Guy"
+    },
+    {
+      "id": "5c07c231e8dec37f0b1e877b",
+      "title": "God Only Knows",
+      "artist": "The Beach Boys",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "The Beach Boys God Only Knows"
+    },
+    {
+      "id": "5b8e440db3984c68ed819077",
+      "title": "Dance Of The Knights",
+      "artist": "Sergei Prokofiev",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Sergei Prokofiev Dance Of The Knights"
+    },
+    {
+      "id": "5b8e4579b3984c68ed819163",
+      "title": "Ottawa",
+      "artist": "Rob Scallon",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Rob Scallon Ottawa"
+    },
+    {
+      "id": "5da47114e8dec333b9df317b",
+      "title": "Fly Away",
+      "artist": "Lenny Kravitz",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Lenny Kravitz Fly Away"
+    },
+    {
+      "id": "5b8e4749b3984c68ed81928b",
+      "title": "Jingle Bells",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Traditional Jingle Bells"
+    },
+    {
+      "id": "5b431dd5e8dec348bf663b0c",
+      "title": "Respect",
+      "artist": "Aretha Franklin",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Aretha Franklin Respect"
+    },
+    {
+      "id": "5b71787ee8dec36155ecc34a",
+      "title": "Do It Again",
+      "artist": "Steely Dan",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Steely Dan Do It Again"
+    },
+    {
+      "id": "5c3f28bae8dec36be7a2d160",
+      "title": "All For You",
+      "artist": "Sister Hazel",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Sister Hazel All For You"
+    },
+    {
+      "id": "5c63e513e8dec35657d9acff",
+      "title": "Walking On Sunshine",
+      "artist": "Katrina And The Waves",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Katrina And The Waves Walking On Sunshine"
+    },
+    {
+      "id": "5c3f2ac1e8dec36be7a2d1dc",
+      "title": "Creep (short)",
+      "artist": "Stone Temple Pilots",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Stone Temple Pilots Creep (short)"
+    },
+    {
+      "id": "5cbeda6be8dec33e65e2801e",
+      "title": "Hey Joe",
+      "artist": "Jimi Hendrix",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Jimi Hendrix Hey Joe"
+    },
+    {
+      "id": "5b0e9ac7e8dec30a75342a40",
+      "title": "Rocket Man",
+      "artist": "Elton John",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Elton John Rocket Man"
+    },
+    {
+      "id": "5b0ebd24e8dec30a753629cf",
+      "title": "Love Will Tear Us Apart",
+      "artist": "Joy Division",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Joy Division Love Will Tear Us Apart"
+    },
+    {
+      "id": "5b14fe3fe8dec30152a16405",
+      "title": "I Wanna Dance With Somebody (Who Loves Me)",
+      "artist": "Whitney Houston",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Whitney Houston I Wanna Dance With Somebody (Who Loves Me)"
+    },
+    {
+      "id": "5b8e46f4b3984c68ed81924f",
+      "title": "Dr Gravity's Evil Plan",
+      "artist": "Utopianisti",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Utopianisti Dr Gravity's Evil Plan"
+    },
+    {
+      "id": "5b8fc76cb3984c2f89e24bf1",
+      "title": "Eine Kleine Nachtmusik (short)",
+      "artist": "Wolfgang Amadeus Mozart",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Wolfgang Amadeus Mozart Eine Kleine Nachtmusik (short)"
+    },
+    {
+      "id": "5b0eb36ee8dec30a75357f46",
+      "title": "On Top Of The World",
+      "artist": "Imagine Dragons",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Imagine Dragons On Top Of The World"
+    },
+    {
+      "id": "5dcd3b3ce8dec36bbe2e0a97",
+      "title": "Stille Nacht",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Traditional Stille Nacht"
+    },
+    {
+      "id": "5b15202ee8dec30152a1eebf",
+      "title": "Yellow Ledbetter",
+      "artist": "Pearl Jam",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Pearl Jam Yellow Ledbetter"
+    },
+    {
+      "id": "5c875be2e8dec31bd5da5433",
+      "title": "Hot Asphalt",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Traditional Hot Asphalt"
+    },
+    {
+      "id": "5b8e43d4b3984c68ed818ffb",
+      "title": "Lil' Liza Jane",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Traditional Lil' Liza Jane"
+    },
+    {
+      "id": "5b8e46d1b3984c68ed819237",
+      "title": "Tarantella",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Traditional Tarantella"
+    },
+    {
+      "id": "5d91d842e8dec350be71ee72",
+      "title": "Go Your Own Way",
+      "artist": "Fleetwood Mac",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Fleetwood Mac Go Your Own Way"
+    },
+    {
+      "id": "5b4343b4e8dec348bf691764",
+      "title": "Adorn",
+      "artist": "Miguel",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Miguel Adorn"
+    },
+    {
+      "id": "5b434c87e8dec348bf69f5c8",
+      "title": "The Mother We Share",
+      "artist": "CHVRCHES",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "CHVRCHES The Mother We Share"
+    },
+    {
+      "id": "5c41b368e8dec35ffd13e19f",
+      "title": "Territory (D)",
+      "artist": "Sepultura",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Sepultura Territory (D)"
+    },
+    {
+      "id": "5c3f299ee8dec36be7a2d19c",
+      "title": "Love And Happiness",
+      "artist": "Al Green",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Al Green Love And Happiness"
+    },
+    {
+      "id": "5b0ebd72e8dec30a753629d1",
+      "title": "Fireflies",
+      "artist": "Owl City",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Owl City Fireflies"
+    },
+    {
+      "id": "5b14f2a7e8dec30152a163d1",
+      "title": "Dog Days Are Over",
+      "artist": "Florence + The Machine",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Florence + The Machine Dog Days Are Over"
+    },
+    {
+      "id": "5c7e63a0e8dec355adc08d00",
+      "title": "St. James Infirmary",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Traditional St. James Infirmary"
+    },
+    {
+      "id": "5c2ccdffe8dec308f65bbc68",
+      "title": "Song Of The South",
+      "artist": "Alabama",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Alabama Song Of The South"
+    },
+    {
+      "id": "5da82358e8dec3556de70945",
+      "title": "Another Brick In The Wall, Pt. 2",
+      "artist": "Pink Floyd",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Pink Floyd Another Brick In The Wall, Pt. 2"
+    },
+    {
+      "id": "5b0ebc82e8dec30a753629cd",
+      "title": "Thunder",
+      "artist": "Imagine Dragons",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Imagine Dragons Thunder"
+    },
+    {
+      "id": "5b6da1b7e8dec35ef96923eb",
+      "title": "Humble And Kind",
+      "artist": "Tim McGraw",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Tim McGraw Humble And Kind"
+    },
+    {
+      "id": "5bc863d9e8dec3682785ccac",
+      "title": "Kickstarts",
+      "artist": "Example",
+      "images": "",
+      "level": 1,
+      "search": "Example Kickstarts"
+    },
+    {
+      "id": "5c3ee137e8dec36be7a0fdea",
+      "title": "By The Way (short)",
+      "artist": "Red Hot Chili Peppers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Red Hot Chili Peppers By The Way (short)"
+    },
+    {
+      "id": "5c88e0e5e8dec33925fb0e2f",
+      "title": "I'm Yours",
+      "artist": "Jason Mraz",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Jason Mraz I'm Yours"
+    },
+    {
+      "id": "5cdd03d4e8dec33e0b50d6e3",
+      "title": "Highway To Hell",
+      "artist": "AC/DC",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "AC/DC Highway To Hell"
+    },
+    {
+      "id": "5b71767fe8dec36155ecb6eb",
+      "title": "Fireflies (in C, no vocal)",
+      "artist": "Owl City",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Owl City Fireflies (in C, no vocal)"
+    },
+    {
+      "id": "5b434f5de8dec348bf6a369b",
+      "title": "Wichita Lineman",
+      "artist": "Glenn Campbell",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Glenn Campbell Wichita Lineman"
+    },
+    {
+      "id": "5b8e458bb3984c68ed81916f",
+      "title": "Aussie Medley",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Traditional Aussie Medley"
+    },
+    {
+      "id": "5d727108e8dec3049cf04f8e",
+      "title": "La Valse d'Amelie (slow)",
+      "artist": "Yann Tiersen",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Yann Tiersen La Valse d'Amelie (slow)"
+    },
+    {
+      "id": "5c3ef014e8dec36be7a13f6a",
+      "title": "Santeria (In F)",
+      "artist": "Sublime",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Sublime Santeria (In F)"
+    },
+    {
+      "id": "5b8e4641b3984c68ed8191dd",
+      "title": "Torna A Surriento",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Traditional Torna A Surriento"
+    },
+    {
+      "id": "5b8f7369b3984c13548374ab",
+      "title": "Siegfrid",
+      "artist": "Richard Wagner",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Richard Wagner Siegfrid"
+    },
+    {
+      "id": "5b0ebb7ce8dec30a753629c7",
+      "title": "Mr. Brightside",
+      "artist": "The Killers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "The Killers Mr. Brightside"
+    },
+    {
+      "id": "5b0ebae0e8dec30a75362998",
+      "title": "Kryptonite",
+      "artist": "3 Doors Down",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "3 Doors Down Kryptonite"
+    },
+    {
+      "id": "5b0fe02be8dec30a7537e751",
+      "title": "You're Still The One",
+      "artist": "Shania Twain",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Shania Twain You're Still The One"
+    },
+    {
+      "id": "5b434b04e8dec348bf69c000",
+      "title": "Shots",
+      "artist": "Imagine Dragons",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Imagine Dragons Shots"
+    },
+    {
+      "id": "5b14f41ae8dec30152a163d9",
+      "title": "Rocket Man (I Think It's Going To Be A Long Long Time)",
+      "artist": "Elton John",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Elton John Rocket Man (I Think It's Going To Be A Long Long Time)"
+    },
+    {
+      "id": "5bc8639de8dec3682785c6b0",
+      "title": "Don't Walk Away",
+      "artist": "Jade",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Jade Don't Walk Away"
+    },
+    {
+      "id": "5b14f256e8dec30152a163cf",
+      "title": "I Will Wait",
+      "artist": "Mumford & Sons",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Mumford & Sons I Will Wait"
+    },
+    {
+      "id": "5b150016e8dec30152a16416",
+      "title": "Black",
+      "artist": "Pearl Jam",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Pearl Jam Black"
+    },
+    {
+      "id": "5b8e45d8b3984c68ed81919f",
+      "title": "Allegro Con Fuoco",
+      "artist": "Antonin Dvorak",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Antonin Dvorak Allegro Con Fuoco"
+    },
+    {
+      "id": "5b0e9ef0e8dec30a7534b27e",
+      "title": "Californication",
+      "artist": "Red Hot Chili Peppers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Red Hot Chili Peppers Californication"
+    },
+    {
+      "id": "5ca3bb26e8dec32053a6c9fc",
+      "title": "Lorena",
+      "artist": "Joseph Webster",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Joseph Webster Lorena"
+    },
+    {
+      "id": "5c875b9fe8dec31bd5da5424",
+      "title": "Leaving Of Liverpool",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Traditional Leaving Of Liverpool"
+    },
+    {
+      "id": "5b0e9a5de8dec30a75342a3e",
+      "title": "Mississippi Queen",
+      "artist": "Mountain",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Mountain Mississippi Queen"
+    },
+    {
+      "id": "5b8e43e5b3984c68ed81902b",
+      "title": "John Barleycorn",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Traditional John Barleycorn"
+    },
+    {
+      "id": "5c4045dce8dec33d3b16cd2f",
+      "title": "Still Loving You (Gm)",
+      "artist": "Scorpions",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Scorpions Still Loving You (Gm)"
+    },
+    {
+      "id": "5b14f3bae8dec30152a163d7",
+      "title": "Show Me The Way",
+      "artist": "Peter Frampton",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Peter Frampton Show Me The Way"
+    },
+    {
+      "id": "5b4341a7e8dec348bf68f411",
+      "title": "I Was Made For Lovin' You",
+      "artist": "KISS",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "KISS I Was Made For Lovin' You"
+    },
+    {
+      "id": "5b8e457db3984c68ed819165",
+      "title": "Volga Boatmen",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Traditional Volga Boatmen"
+    },
+    {
+      "id": "5d6f78a0e8dec31c04b9b35d",
+      "title": "Hummani Hei Dub",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Traditional Hummani Hei Dub"
+    },
+    {
+      "id": "5d6628e6e8dec36f9809f7da",
+      "title": "Black Is The Color (Of My True Love's Hair)",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Traditional Black Is The Color (Of My True Love's Hair)"
+    },
+    {
+      "id": "5c374731e8dec31ef32efbec",
+      "title": "Tearin' Up My Heart",
+      "artist": "*NSYNC",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "*NSYNC Tearin' Up My Heart"
+    },
+    {
+      "id": "5b717949e8dec36155ecc388",
+      "title": "Harder To Breathe",
+      "artist": "Maroon 5",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Maroon 5 Harder To Breathe"
+    },
+    {
+      "id": "5b8f736fb3984c13548374af",
+      "title": "Fysyoni (in Bm)",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Traditional Fysyoni (in Bm)"
+    },
+    {
+      "id": "5b6da11de8dec35ef9692398",
+      "title": "Cupid's Chokehold",
+      "artist": "Gym Class Heroes",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Gym Class Heroes Cupid's Chokehold"
+    },
+    {
+      "id": "5bb4c134e8dec378b6bf0e62",
+      "title": "Dani California",
+      "artist": "Red Hot Chili Peppers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Red Hot Chili Peppers Dani California"
+    },
+    {
+      "id": "5b6da0b3e8dec35ef9690baa",
+      "title": "When I'm Gone",
+      "artist": "3 Doors Down",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "3 Doors Down When I'm Gone"
+    },
+    {
+      "id": "5b8f73d5b3984c13548374c3",
+      "title": "Gnossienne (in D)",
+      "artist": "Erik Satie",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Erik Satie Gnossienne (in D)"
+    },
+    {
+      "id": "5b0fe117e8dec30a7537e757",
+      "title": "You Are So Beautiful",
+      "artist": "Joe Cocker",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Joe Cocker You Are So Beautiful"
+    },
+    {
+      "id": "5b431f30e8dec348bf664ffc",
+      "title": "We Built This City",
+      "artist": "Starship",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Starship We Built This City"
+    },
+    {
+      "id": "5b4340e0e8dec348bf68deb5",
+      "title": "Chan Chan",
+      "artist": "Buena Vista Social Club",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Buena Vista Social Club Chan Chan"
+    },
+    {
+      "id": "5b8e447eb3984c68ed8190bf",
+      "title": "Fysouni (in Bm)",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Traditional Fysouni (in Bm)"
+    },
+    {
+      "id": "5cee3581e8dec321873e44cd",
+      "title": "bad guy",
+      "artist": "Billie Eilish",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Billie Eilish bad guy"
+    },
+    {
+      "id": "5b434e7fe8dec348bf6a218b",
+      "title": "Shiny Happy People",
+      "artist": "R.E.M.",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "R.E.M. Shiny Happy People"
+    },
+    {
+      "id": "5c37563fe8dec31ef32f65d9",
+      "title": "Swing, Swing",
+      "artist": "The All-American Rejects",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "The All-American Rejects Swing, Swing"
+    },
+    {
+      "id": "5b8f737bb3984c13548374b9",
+      "title": "Hava Nagila",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Traditional Hava Nagila"
+    },
+    {
+      "id": "5c3edd6de8dec36be7a0fd20",
+      "title": "Violin Partita No. 1: Sarabande (in Dm)",
+      "artist": "Johann Sebastian Bach",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Johann Sebastian Bach Violin Partita No. 1: Sarabande (in Dm)"
+    },
+    {
+      "id": "5d10ae9de8dec310a8f57292",
+      "title": "La Paloma (in D)",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Traditional La Paloma (in D)"
+    },
+    {
+      "id": "5b8e4534b3984c68ed819135",
+      "title": "A Hundred Rabbits",
+      "artist": "Utopianisti",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Utopianisti A Hundred Rabbits"
+    },
+    {
+      "id": "5dcbaf53e8dec35b9a1b6e5f",
+      "title": "As Long As You Love Me",
+      "artist": "Backstreet Boys",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Backstreet Boys As Long As You Love Me"
+    },
+    {
+      "id": "5c2cd3fce8dec308f65bd6e7",
+      "title": "Lick It Up",
+      "artist": "KISS",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "KISS Lick It Up"
+    },
+    {
+      "id": "5c3f2a38e8dec36be7a2d1bc",
+      "title": "Love And Happiness (in Am, short)",
+      "artist": "Al Green",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Al Green Love And Happiness (in Am, short)"
+    },
+    {
+      "id": "5da475a7e8dec333b9df7532",
+      "title": "Heart-Shaped Box",
+      "artist": "Nirvana",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Nirvana Heart-Shaped Box"
+    },
+    {
+      "id": "5b0fe0d6e8dec30a7537e755",
+      "title": "Barracuda",
+      "artist": "Heart",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Heart Barracuda"
+    },
+    {
+      "id": "5df1ee18e8dec343cb7405f8",
+      "title": "All I Want",
+      "artist": "Kodaline",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Kodaline All I Want"
+    },
+    {
+      "id": "5ba3bb26e8dec37227448230",
+      "title": "Won't Go Home Without You",
+      "artist": "Maroon 5",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Maroon 5 Won't Go Home Without You"
+    },
+    {
+      "id": "5b0e81f6e8dec30a7532d502",
+      "title": "When We Were Young",
+      "artist": "Adele",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Adele When We Were Young"
+    },
+    {
+      "id": "5cda93fde8dec3548a76b36b",
+      "title": "Hurt",
+      "artist": "Johnny Cash",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Johnny Cash Hurt"
+    },
+    {
+      "id": "5b1e77d2e8dec321633e4bfe",
+      "title": "The Ballad Of Curtis Loew",
+      "artist": "Lynyrd Skynyrd",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Lynyrd Skynyrd The Ballad Of Curtis Loew"
+    },
+    {
+      "id": "5d021522e8dec344dd8365df",
+      "title": "Comptine D'un Autre Ete",
+      "artist": "Yann Tiersen",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Yann Tiersen Comptine D'un Autre Ete"
+    },
+    {
+      "id": "5b8fa7b7b3984c209a0acb67",
+      "title": "Ride Of The Valkyries (in Am)",
+      "artist": "Richard Wagner",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Richard Wagner Ride Of The Valkyries (in Am)"
+    },
+    {
+      "id": "5dcbb053e8dec35b9a1b6e6f",
+      "title": "Moonlight Shadow",
+      "artist": "Mike Oldfield",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Mike Oldfield Moonlight Shadow"
+    },
+    {
+      "id": "5b7179fde8dec36155eccfae",
+      "title": "Sunday Morning",
+      "artist": "Maroon 5",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Maroon 5 Sunday Morning"
+    },
+    {
+      "id": "5b0e9728e8dec30a75340829",
+      "title": "Sweet Home Alabama",
+      "artist": "Lynyrd Skynyrd",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Lynyrd Skynyrd Sweet Home Alabama"
+    },
+    {
+      "id": "5c3f2a8be8dec36be7a2d1d8",
+      "title": "Creep",
+      "artist": "Stone Temple Pilots",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Stone Temple Pilots Creep"
+    },
+    {
+      "id": "5b0fe099e8dec30a7537e753",
+      "title": "Crash Into Me",
+      "artist": "Dave Matthews Band",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Dave Matthews Band Crash Into Me"
+    },
+    {
+      "id": "5b8fa745b3984c209a0acb2f",
+      "title": "Arpeggio Workout",
+      "artist": "Stevie T",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Stevie T Arpeggio Workout"
+    },
+    {
+      "id": "5ca3011ce8dec32053a25ebd",
+      "title": "Landslide",
+      "artist": "Fleetwood Mac",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Fleetwood Mac Landslide"
+    },
+    {
+      "id": "5b8e45e4b3984c68ed8191a5",
+      "title": "Osman Aga",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Traditional Osman Aga"
+    },
+    {
+      "id": "5c07bf81e8dec37f0b1e620e",
+      "title": "Rock And Roll All Nite",
+      "artist": "KISS",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "KISS Rock And Roll All Nite"
+    },
+    {
+      "id": "5b8e4828b3984c68ed81930b",
+      "title": "Aloha Oe (surf)",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Traditional Aloha Oe (surf)"
+    },
+    {
+      "id": "5b152840e8dec30152a1ef15",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "ABBA The Winner Takes It All"
+    },
+    {
+      "id": "5b179999e8dec30604638e66",
+      "title": "You're Welcome",
+      "artist": "Moana",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Moana You're Welcome"
+    },
+    {
+      "id": "5c3ee50be8dec36be7a117b3",
+      "title": "Ever Fallen In Love (With Someone You Shouldn't've)?",
+      "artist": "Buzzcocks",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Buzzcocks Ever Fallen In Love (With Someone You Shouldn't've)?"
+    },
+    {
+      "id": "5c7e6351e8dec355adc08ce6",
+      "title": "Mardi Gras Song",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Traditional Mardi Gras Song"
+    },
+    {
+      "id": "5c3edd39e8dec36be7a0fd1b",
+      "title": "Violin Partita No. 1: Sarabande (in Am)",
+      "artist": "Johann Sebastian Bach",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Johann Sebastian Bach Violin Partita No. 1: Sarabande (in Am)"
+    },
+    {
+      "id": "5b434dc4e8dec348bf6a1653",
+      "title": "Mmm Mmm Mmm Mmm",
+      "artist": "Crash Test Dummies",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Crash Test Dummies Mmm Mmm Mmm Mmm"
+    },
+    {
+      "id": "5b43355be8dec348bf67ff10",
+      "title": "This Love",
+      "artist": "Maroon 5",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Maroon 5 This Love"
+    },
+    {
+      "id": "5b911de8b3984c65134ccbef",
+      "title": "Wedding March",
+      "artist": "Felix Mendelssohn",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Felix Mendelssohn Wedding March"
+    },
+    {
+      "id": "5d0213cce8dec344dd8365d5",
+      "title": "Everybody (Backstreet's Back) (Am)",
+      "artist": "Backstreet Boys",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Backstreet Boys Everybody (Backstreet's Back) (Am)"
+    },
+    {
+      "id": "5b1523d4e8dec30152a1eee9",
+      "title": "Under The Sea",
+      "artist": "The Little Mermaid",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "The Little Mermaid Under The Sea"
+    },
+    {
+      "id": "5c88e1c3e8dec33925fb10cb",
+      "title": "Wind Of Change",
+      "artist": "Scorpions",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Scorpions Wind Of Change"
+    },
+    {
+      "id": "5bd6e8e9e8dec37aab3e78db",
+      "title": "Younger Now Tutorial",
+      "artist": "Miley Cyrus",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Miley Cyrus Younger Now Tutorial"
+    },
+    {
+      "id": "5cda938be8dec3548a76ad97",
+      "title": "Complicated",
+      "artist": "Avril Lavigne",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Avril Lavigne Complicated"
+    },
+    {
+      "id": "5df1eccae8dec343cb73f5af",
+      "title": "Stupid Girl",
+      "artist": "Garbage",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Garbage Stupid Girl"
+    },
+    {
+      "id": "5bfc95c5e8dec36b6586f87d",
+      "title": "Metal In Very Inappropriate Places",
+      "artist": "Rob Scallon",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Rob Scallon Metal In Very Inappropriate Places"
+    },
+    {
+      "id": "5da47767e8dec333b9df9819",
+      "title": "Unchained Melody",
+      "artist": "The Righteous Brothers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "The Righteous Brothers Unchained Melody"
+    },
+    {
+      "id": "5b8e47f6b3984c68ed8192f1",
+      "title": "Valse Lente",
+      "artist": "Oskar Merikanto",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Oskar Merikanto Valse Lente"
+    },
+    {
+      "id": "5b0fec58e8dec30a7537e7a1",
+      "title": "Sweet Caroline",
+      "artist": "Neil Diamond",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Neil Diamond Sweet Caroline"
+    },
+    {
+      "id": "5b8e43f4b3984c68ed819045",
+      "title": "Jarabe Tapatio",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Traditional Jarabe Tapatio"
+    },
+    {
+      "id": "5b8e46deb3984c68ed81923f",
+      "title": "Follow Me",
+      "artist": "Reemes",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Reemes Follow Me"
+    },
+    {
+      "id": "5b14f474e8dec30152a163db",
+      "title": "Somebody Told Me",
+      "artist": "The Killers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "The Killers Somebody Told Me"
+    },
+    {
+      "id": "5b14feede8dec30152a16409",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Al Green Let's Stay Together"
+    },
+    {
+      "id": "5c3f26e9e8dec36be7a2d0f0",
+      "title": "Vincent (Starry Starry Night)",
+      "artist": "Don McLean",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Don McLean Vincent (Starry Starry Night)"
+    },
+    {
+      "id": "5df1eda4e8dec343cb7405cd",
+      "title": "All Right Now",
+      "artist": "Free",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Free All Right Now"
+    },
+    {
+      "id": "5b152066e8dec30152a1eec4",
+      "title": "Wanted",
+      "artist": "Hunter Hayes",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Hunter Hayes Wanted"
+    },
+    {
+      "id": "5c1106cfe8dec3290fb4589b",
+      "title": "Still Loving You (Am)",
+      "artist": "Scorpions",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Scorpions Still Loving You (Am)"
+    },
+    {
+      "id": "5ca30091e8dec32053a25e9e",
+      "title": "Happier",
+      "artist": "Marshmello, Bastille",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Marshmello, Bastille Happier"
+    },
+    {
+      "id": "5b6c3863e8dec347b474d841",
+      "title": "Born To Be Wild",
+      "artist": "Steppenwolf",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Steppenwolf Born To Be Wild"
+    },
+    {
+      "id": "5df20620e8dec343cb759727",
+      "title": "Joy To The World",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Traditional Joy To The World"
+    },
+    {
+      "id": "5bd81392e8dec37aab43086d",
+      "title": "Should've Been A Cowboy",
+      "artist": "Toby Keith",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Toby Keith Should've Been A Cowboy"
+    },
+    {
+      "id": "5c3748f6e8dec31ef32efc4e",
+      "title": "Si Tú Te Atreves",
+      "artist": "Luis Miguel",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Luis Miguel Si Tú Te Atreves"
+    },
+    {
+      "id": "5bf54656e8dec363e1387468",
+      "title": "Happy Birthday",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Traditional Happy Birthday"
+    },
+    {
+      "id": "5bfea7b5e8dec331251ee183",
+      "title": "Whiskey In The Jar",
+      "artist": "Thin Lizzy",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Thin Lizzy Whiskey In The Jar"
+    },
+    {
+      "id": "5dde34a7e8dec30c1e30998b",
+      "title": "Attention",
+      "artist": "Charlie Puth",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Charlie Puth Attention"
+    },
+    {
+      "id": "5b0ebe83e8dec30a753629d5",
+      "title": "Ironic",
+      "artist": "Alanis Morissette",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Alanis Morissette Ironic"
+    },
+    {
+      "id": "5b6c38f5e8dec347b474d85d",
+      "title": "It's The End Of The World As We Know It (And I Feel Fine)",
+      "artist": "R.E.M.",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "R.E.M. It's The End Of The World As We Know It (And I Feel Fine)"
+    },
+    {
+      "id": "5ca3bb90e8dec32053a6ca18",
+      "title": "Colonel Bogey March",
+      "artist": "Kenneth J. Alford",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Kenneth J. Alford Colonel Bogey March"
+    },
+    {
+      "id": "5c3edc7ee8dec36be7a0fce1",
+      "title": "Cello Suite No. 1 Part 1 (in C, short)",
+      "artist": "Johann Sebastian Bach",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Johann Sebastian Bach Cello Suite No. 1 Part 1 (in C, short)"
+    },
+    {
+      "id": "5d5e7785e8dec33494af2902",
+      "title": "Hold Back The River",
+      "artist": "James Bay",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "James Bay Hold Back The River"
+    },
+    {
+      "id": "5b8e467bb3984c68ed819205",
+      "title": "Misirlou (surf)",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Traditional Misirlou (surf)"
+    },
+    {
+      "id": "5dde3368e8dec30c1e309978",
+      "title": "Blue Suede Shoes",
+      "artist": "Carl Perkins",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Carl Perkins Blue Suede Shoes"
+    },
+    {
+      "id": "5b4349c2e8dec348bf69b518",
+      "title": "I Want To Hold Your Hand",
+      "artist": "The Beatles",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "The Beatles I Want To Hold Your Hand"
+    },
+    {
+      "id": "5c5bf117e8dec3078bdc16ed",
+      "title": "Badfish",
+      "artist": "Sublime",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Sublime Badfish"
+    },
+    {
+      "id": "5b6da163e8dec35ef96923cf",
+      "title": "Shimmer",
+      "artist": "Fuel",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Fuel Shimmer"
+    },
+    {
+      "id": "5b8e46e5b3984c68ed819245",
+      "title": "Siegfried",
+      "artist": "Richard Wagner",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Richard Wagner Siegfried"
+    },
+    {
+      "id": "5b434e03e8dec348bf6a1e9e",
+      "title": "Samba Pa Ti",
+      "artist": "Santana",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Santana Samba Pa Ti"
+    },
+    {
+      "id": "5bd2fd9ae8dec3255a00e2e0",
+      "title": "I Bet My Life (tutorial)",
+      "artist": "Imagine Dragons",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Imagine Dragons I Bet My Life (tutorial)"
+    },
+    {
+      "id": "5b1520cfe8dec30152a1eec9",
+      "title": "The Look",
+      "artist": "Roxette",
+      "images": "",
+      "level": 3,
+      "search": "Roxette The Look"
+    },
+    {
+      "id": "5c3ee0d0e8dec36be7a0fdda",
+      "title": "By The Way",
+      "artist": "Red Hot Chili Peppers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Red Hot Chili Peppers By The Way"
+    },
+    {
+      "id": "5c88e16ce8dec33925fb0e4e",
+      "title": "Skinny Love",
+      "artist": "Bon Iver",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Bon Iver Skinny Love"
+    },
+    {
+      "id": "5b8e47ccb3984c68ed8192d7",
+      "title": "Raindrop Prelude (in C)",
+      "artist": "Frederic Chopin",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Frederic Chopin Raindrop Prelude (in C)"
+    },
+    {
+      "id": "5bd2fad9e8dec3255a00b243",
+      "title": "Seven Nation Army (tutorial)",
+      "artist": "The White Stripes",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "The White Stripes Seven Nation Army (tutorial)"
+    },
+    {
+      "id": "5ba4c936e8dec3722748b26e",
+      "title": "Gives You Hell",
+      "artist": "The All-American Rejects",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "The All-American Rejects Gives You Hell"
+    },
+    {
+      "id": "5dee0b43e8dec331b7bdfbf6",
+      "title": "Trepak",
+      "artist": "Pyotr Ilyich Tchaikovsky",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Pyotr Ilyich Tchaikovsky Trepak"
+    },
+    {
+      "id": "5bd2fd4ee8dec3255a00daec",
+      "title": "Humble And Kind (tutorial)",
+      "artist": "Tim McGraw",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Tim McGraw Humble And Kind (tutorial)"
+    },
+    {
+      "id": "5b6c3a42e8dec347b474d8ac",
+      "title": "Eye In The Sky",
+      "artist": "The Alan Parsons Project",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "The Alan Parsons Project Eye In The Sky"
+    },
+    {
+      "id": "5c07be07e8dec37f0b1e5039",
+      "title": "Desire",
+      "artist": "Years & Years",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Years & Years Desire"
+    },
+    {
+      "id": "5c6d0240e8dec373d74fe7a2",
+      "title": "Shortnin' Bread",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Traditional Shortnin' Bread"
+    },
+    {
+      "id": "5c384d34e8dec31ef3327656",
+      "title": "Magic Carpet Ride",
+      "artist": "Steppenwolf",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Steppenwolf Magic Carpet Ride"
+    },
+    {
+      "id": "5b152436e8dec30152a1eeef",
+      "title": "More Than Words",
+      "artist": "Extreme",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Extreme More Than Words"
+    },
+    {
+      "id": "5bef43c3e8dec318099cff88",
+      "title": "Hey Laura",
+      "artist": "Gregory Porter",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Gregory Porter Hey Laura"
+    },
+    {
+      "id": "5c41b571e8dec35ffd13e221",
+      "title": "South Of Heaven (E)",
+      "artist": "Slayer",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Slayer South Of Heaven (E)"
+    },
+    {
+      "id": "5dde33e4e8dec30c1e309980",
+      "title": "Only Happy When It Rains",
+      "artist": "Garbage",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Garbage Only Happy When It Rains"
+    },
+    {
+      "id": "5b432f22e8dec348bf678b10",
+      "title": "White Rabbit",
+      "artist": "Jefferson Airplane",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Jefferson Airplane White Rabbit"
+    },
+    {
+      "id": "5b151e82e8dec30152a1eeb8",
+      "title": "Corazon Partio",
+      "artist": "Alejandro Sanz",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Alejandro Sanz Corazon Partio"
+    },
+    {
+      "id": "5d07348de8dec37196fbf101",
+      "title": "La Valse d'Amelie (solo piano version)",
+      "artist": "Yann Tiersen",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Yann Tiersen La Valse d'Amelie (solo piano version)"
+    },
+    {
+      "id": "5ccad427e8dec37dc845eef9",
+      "title": "when the party's over",
+      "artist": "Billie Eilish",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Billie Eilish when the party's over"
+    },
+    {
+      "id": "5d91d8c3e8dec350be71f595",
+      "title": "Come As You Are",
+      "artist": "Nirvana",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Nirvana Come As You Are"
+    },
+    {
+      "id": "5b152780e8dec30152a1ef11",
+      "title": "Ship To Wreck",
+      "artist": "Florence + The Machine",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Florence + The Machine Ship To Wreck"
+    },
+    {
+      "id": "5d107d3ae8dec310a8f357e0",
+      "title": "Hells Bells",
+      "artist": "AC/DC",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "AC/DC Hells Bells"
+    },
+    {
+      "id": "5b8f72cbb3984c1354837447",
+      "title": "La Bamba",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Traditional La Bamba"
+    },
+    {
+      "id": "5c0f6b92e8dec348a88f48f4",
+      "title": "Away In A Manger",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Traditional Away In A Manger"
+    },
+    {
+      "id": "5bc86738e8dec36827860b1d",
+      "title": "Don't Cry For Me Argentina",
+      "artist": "Evita",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Evita Don't Cry For Me Argentina"
+    },
+    {
+      "id": "5c404687e8dec33d3b16d9f7",
+      "title": "Still Loving You (Am, short)",
+      "artist": "Scorpions",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Scorpions Still Loving You (Am, short)"
+    },
+    {
+      "id": "5cbeda14e8dec33e65e274a6",
+      "title": "ocean eyes",
+      "artist": "Billie Eilish",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Billie Eilish ocean eyes"
+    },
+    {
+      "id": "5b434f9ae8dec348bf6a36c3",
+      "title": "Top Of The World",
+      "artist": "The Carpenters",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "The Carpenters Top Of The World"
+    },
+    {
+      "id": "5c5bf3d5e8dec3078bdc1781",
+      "title": "Try",
+      "artist": "P!nk",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "P!nk Try"
+    },
+    {
+      "id": "5bfbfc24e8dec36b6585df02",
+      "title": "Seasons Of Love",
+      "artist": "RENT",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "RENT Seasons Of Love"
+    },
+    {
+      "id": "5b151d36e8dec30152a1eeb6",
+      "title": "Love The Way You Lie",
+      "artist": "Eminem, Rihanna",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Eminem, Rihanna Love The Way You Lie"
+    },
+    {
+      "id": "5b1527f6e8dec30152a1ef13",
+      "title": "Mamma Mia",
+      "artist": "ABBA",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "ABBA Mamma Mia"
+    },
+    {
+      "id": "5bd96fb5e8dec32376c439cf",
+      "title": "The Creation Overture",
+      "artist": "Joseph Haydn",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Joseph Haydn The Creation Overture"
+    },
+    {
+      "id": "5dee0b74e8dec331b7bdfbfc",
+      "title": "Waltz Of The Flowers",
+      "artist": "Pyotr Ilyich Tchaikovsky",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Pyotr Ilyich Tchaikovsky Waltz Of The Flowers"
+    },
+    {
+      "id": "5c3f280ae8dec36be7a2d136",
+      "title": "Nothin' But A Good Time (short)",
+      "artist": "Poison",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Poison Nothin' But A Good Time (short)"
+    },
+    {
+      "id": "5bd2fddde8dec3255a00f775",
+      "title": "The Scientist (tutorial)",
+      "artist": "Coldplay",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Coldplay The Scientist (tutorial)"
+    },
+    {
+      "id": "5cf4f7dbe8dec32e16053165",
+      "title": "...Baby One More Time",
+      "artist": "Britney Spears",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Britney Spears ...Baby One More Time"
+    },
+    {
+      "id": "5b8e4463b3984c68ed8190ad",
+      "title": "Bolero",
+      "artist": "Maurice Ravel",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Maurice Ravel Bolero"
+    },
+    {
+      "id": "5d4389d9e8dec35724282dd7",
+      "title": "The Riff That Got Away",
+      "artist": "Rob Scallon",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Rob Scallon The Riff That Got Away"
+    },
+    {
+      "id": "5c2cb7d3e8dec308f65ad069",
+      "title": "Hemorrhage (In My Hands)",
+      "artist": "Fuel",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Fuel Hemorrhage (In My Hands)"
+    },
+    {
+      "id": "5c3f2944e8dec36be7a2d180",
+      "title": "All For You (in G, short)",
+      "artist": "Sister Hazel",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Sister Hazel All For You (in G, short)"
+    },
+    {
+      "id": "5b0fea39e8dec30a7537e787",
+      "title": "Every Rose Has Its Thorn",
+      "artist": "Poison",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Poison Every Rose Has Its Thorn"
+    },
+    {
+      "id": "5b4332ede8dec348bf67ea2d",
+      "title": "She's Always A Woman",
+      "artist": "Billy Joel",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Billy Joel She's Always A Woman"
+    },
+    {
+      "id": "5b8e473bb3984c68ed819283",
+      "title": "Mo Li Hua",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Traditional Mo Li Hua"
+    },
+    {
+      "id": "5b434aa0e8dec348bf69bffa",
+      "title": "Don't Worry Be Happy",
+      "artist": "Bobby McFerrin",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Bobby McFerrin Don't Worry Be Happy"
+    },
+    {
+      "id": "5c98dfb3e8dec346a1b54cf4",
+      "title": "Wanted (short)",
+      "artist": "Hunter Hayes",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Hunter Hayes Wanted (short)"
+    },
+    {
+      "id": "5b8e47c6b3984c68ed8192d3",
+      "title": "Four Seasons (Spring)",
+      "artist": "Antonio Vivaldi",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Antonio Vivaldi Four Seasons (Spring)"
+    },
+    {
+      "id": "5b433510e8dec348bf67f4ca",
+      "title": "She Will Be Loved",
+      "artist": "Maroon 5",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Maroon 5 She Will Be Loved"
+    },
+    {
+      "id": "5d821baee8dec338770c6d24",
+      "title": "Can't Hold Us",
+      "artist": "Macklemore & Ryan Lewis",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Macklemore & Ryan Lewis Can't Hold Us"
+    },
+    {
+      "id": "5b0eb9fee8dec30a753607a8",
+      "title": "Malibu",
+      "artist": "Miley Cyrus",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Miley Cyrus Malibu"
+    },
+    {
+      "id": "5b8f73feb3984c13548374cb",
+      "title": "Easter Oratorio (in Bm)",
+      "artist": "Johann Sebastian Bach",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Johann Sebastian Bach Easter Oratorio (in Bm)"
+    },
+    {
+      "id": "5c63e48ce8dec35657d9acdf",
+      "title": "Suzie Q",
+      "artist": "Creedence Clearwater Revival",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Creedence Clearwater Revival Suzie Q"
+    },
+    {
+      "id": "5ccad552e8dec37dc8460a42",
+      "title": "You Shook Me All Night Long",
+      "artist": "AC/DC",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "AC/DC You Shook Me All Night Long"
+    },
+    {
+      "id": "5b8fa5ccb3984c209a0aca6d",
+      "title": "What Rick Sent",
+      "artist": "Rob Scallon",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Rob Scallon What Rick Sent"
+    },
+    {
+      "id": "5b8fd2ecb3984c35c0941eae",
+      "title": "Happy Birthday (vocal in D)",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Traditional Happy Birthday (vocal in D)"
+    },
+    {
+      "id": "5b0eb469e8dec30a75357f4a",
+      "title": "Ain't No Sunshine",
+      "artist": "Bill Withers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Bill Withers Ain't No Sunshine"
+    },
+    {
+      "id": "5b14f7f5e8dec30152a163f9",
+      "title": "Leave A Light On",
+      "artist": "Tom Walker",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Tom Walker Leave A Light On"
+    },
+    {
+      "id": "5b8e455db3984c68ed819151",
+      "title": "Gnossienne (in E)",
+      "artist": "Erik Satie",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Erik Satie Gnossienne (in E)"
+    },
+    {
+      "id": "5b251cc7e8dec31361c6c1d7",
+      "title": "Happy Birthday (piano in C)",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Traditional Happy Birthday (piano in C)"
+    },
+    {
+      "id": "5b8fc592b3984c2f89e24a5b",
+      "title": "Flower Duet",
+      "artist": "Leo Delibes",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Leo Delibes Flower Duet"
+    },
+    {
+      "id": "5b1525c0e8dec30152a1ef00",
+      "title": "Part Of Your World",
+      "artist": "The Little Mermaid",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "The Little Mermaid Part Of Your World"
+    },
+    {
+      "id": "5bb4c3b6e8dec378b6bf37b6",
+      "title": "Tuesday's Gone",
+      "artist": "Lynyrd Skynyrd",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Lynyrd Skynyrd Tuesday's Gone"
+    },
+    {
+      "id": "5b14f820e8dec30152a163fb",
+      "title": "Let You Down",
+      "artist": "NF",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "NF Let You Down"
+    },
+    {
+      "id": "5b434292e8dec348bf68fec9",
+      "title": "Lovefool",
+      "artist": "The Cardigans",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "The Cardigans Lovefool"
+    },
+    {
+      "id": "5d0212c9e8dec344dd8349b9",
+      "title": "hostage",
+      "artist": "Billie Eilish",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Billie Eilish hostage"
+    },
+    {
+      "id": "5b4334b2e8dec348bf67f4c6",
+      "title": "Tiny Dancer",
+      "artist": "Elton John",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Elton John Tiny Dancer"
+    },
+    {
+      "id": "5cf4f88de8dec32e16054dd1",
+      "title": "Morning Has Broken",
+      "artist": "Cat Stevens",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Cat Stevens Morning Has Broken"
+    },
+    {
+      "id": "5c3f2779e8dec36be7a2d118",
+      "title": "Nothin' But A Good Time",
+      "artist": "Poison",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Poison Nothin' But A Good Time"
+    },
+    {
+      "id": "5b4335e4e8dec348bf680a00",
+      "title": "(Sittin' On) The Dock Of The Bay",
+      "artist": "Otis Redding",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Otis Redding (Sittin' On) The Dock Of The Bay"
+    },
+    {
+      "id": "5b8e470db3984c68ed819263",
+      "title": "Baby Please Don't Go",
+      "artist": "Jo' Buddy",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Jo' Buddy Baby Please Don't Go"
+    },
+    {
+      "id": "5b8e4819b3984c68ed819303",
+      "title": "Red River Valley",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Traditional Red River Valley"
+    },
+    {
+      "id": "5d821c78e8dec338770c7ce8",
+      "title": "The Pretender",
+      "artist": "Foo Fighters",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Foo Fighters The Pretender"
+    },
+    {
+      "id": "5d5a651be8dec33acda19fec",
+      "title": "Comptine D'un Autre Ete  ",
+      "artist": "Yann Tiersen",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Yann Tiersen Comptine D'un Autre Ete  "
+    },
+    {
+      "id": "5b0ebc4be8dec30a753629cb",
+      "title": "Ruby",
+      "artist": "Kaiser Chiefs",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Kaiser Chiefs Ruby"
+    },
+    {
+      "id": "5dcbaea1e8dec35b9a1b6e58",
+      "title": "Bingo",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Traditional Bingo"
+    },
+    {
+      "id": "5c6d0280e8dec373d74fea1d",
+      "title": "My Grandfather's Clock",
+      "artist": "Henry Clay Work",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Henry Clay Work My Grandfather's Clock"
+    },
+    {
+      "id": "5b434567e8dec348bf693661",
+      "title": "California Dreamin'",
+      "artist": "The Mamas & The Papas",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "The Mamas & The Papas California Dreamin'"
+    },
+    {
+      "id": "5d0733efe8dec37196fbf0fc",
+      "title": "Tush",
+      "artist": "ZZ Top",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "ZZ Top Tush"
+    },
+    {
+      "id": "5b434482e8dec348bf6929ab",
+      "title": "I Stand Alone",
+      "artist": "Godsmack",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Godsmack I Stand Alone"
+    },
+    {
+      "id": "5c63e4d1e8dec35657d9acef",
+      "title": "More Than This",
+      "artist": "Roxy Music",
+      "images": "",
+      "level": 13,
+      "search": "Roxy Music More Than This"
+    },
+    {
+      "id": "5d6f78c2e8dec31c04b9b360",
+      "title": "Hokey Pokey",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Traditional Hokey Pokey"
+    },
+    {
+      "id": "5bd2fd7ae8dec3255a00dafa",
+      "title": "Thunder (tutorial)",
+      "artist": "Imagine Dragons",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Imagine Dragons Thunder (tutorial)"
+    },
+    {
+      "id": "5b8fb11ae8dec3365050e8f7",
+      "title": "Free Bird",
+      "artist": "Lynyrd Skynyrd",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Lynyrd Skynyrd Free Bird"
+    },
+    {
+      "id": "5b14ff7ce8dec30152a1640d",
+      "title": "Uptown Girl",
+      "artist": "Billy Joel",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Billy Joel Uptown Girl"
+    },
+    {
+      "id": "5b434d2be8dec348bf6a00ba",
+      "title": "Midnight Train To Georgia",
+      "artist": "Gladys Knight & The Pips",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Gladys Knight & The Pips Midnight Train To Georgia"
+    },
+    {
+      "id": "5bd81463e8dec37aab4316da",
+      "title": "Grandma's Hands",
+      "artist": "Bill Withers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Bill Withers Grandma's Hands"
+    },
+    {
+      "id": "5d02133ce8dec344dd83578b",
+      "title": "I Want It That Way (Gm)",
+      "artist": "Backstreet Boys",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Backstreet Boys I Want It That Way (Gm)"
+    },
+    {
+      "id": "5bb4c2c7e8dec378b6bf1c9f",
+      "title": "Road Trippin'",
+      "artist": "Red Hot Chili Peppers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Red Hot Chili Peppers Road Trippin'"
+    },
+    {
+      "id": "5b8e44fcb3984c68ed81910f",
+      "title": "I Ain't Got Nobody",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Traditional I Ain't Got Nobody"
+    },
+    {
+      "id": "5c3de180e8dec334687420a0",
+      "title": "Cello Suite No. 1 Part 1 (in C, full)",
+      "artist": "Johann Sebastian Bach",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Johann Sebastian Bach Cello Suite No. 1 Part 1 (in C, full)"
+    },
+    {
+      "id": "5c94d079e8dec334fbc57d59",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Adele Someone Like You"
+    },
+    {
+      "id": "5b0fb745e8dec30a7536d592",
+      "title": "Youth",
+      "artist": "Daughter",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Daughter Youth"
+    },
+    {
+      "id": "5b8e441ab3984c68ed81907f",
+      "title": "St Louis Blues",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Traditional St Louis Blues"
+    },
+    {
+      "id": "5b431e39e8dec348bf664c0e",
+      "title": "Here Without You ",
+      "artist": "3 Doors Down",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "3 Doors Down Here Without You "
+    },
+    {
+      "id": "5b152631e8dec30152a1ef07",
+      "title": "I'm Still Standing",
+      "artist": "Elton John",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Elton John I'm Still Standing"
+    },
+    {
+      "id": "5bb4be9ae8dec378b6bf0dd5",
+      "title": "Good Vibrations",
+      "artist": "The Beach Boys",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "The Beach Boys Good Vibrations"
+    },
+    {
+      "id": "5bd6e96ae8dec37aab3e78f9",
+      "title": "More Than You Know Tutorial",
+      "artist": "Axwell Λ Ingrosso",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Axwell Λ Ingrosso More Than You Know Tutorial"
+    },
+    {
+      "id": "5c41b4b5e8dec35ffd13e1f3",
+      "title": "Seasons In The Abyss (E)",
+      "artist": "Slayer",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Slayer Seasons In The Abyss (E)"
+    },
+    {
+      "id": "5b8fa577b3984c209a0aca3b",
+      "title": "O Sole Mio (in E)",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Traditional O Sole Mio (in E)"
+    },
+    {
+      "id": "5b8e443eb3984c68ed819095",
+      "title": "The Yellow Rose Of Texas",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Traditional The Yellow Rose Of Texas"
+    },
+    {
+      "id": "5b8fc845b3984c2f89e24c6f",
+      "title": "Raindrop Prelude (in Db)",
+      "artist": "Frederic Chopin",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Frederic Chopin Raindrop Prelude (in Db)"
+    },
+    {
+      "id": "5dcd39efe8dec36bbe2e0a82",
+      "title": "Mon Beau Sapin",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Traditional Mon Beau Sapin"
+    },
+    {
+      "id": "5b0eb6fee8dec30a7535c377",
+      "title": "It Must Have Been Love",
+      "artist": "Roxette",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Roxette It Must Have Been Love"
+    },
+    {
+      "id": "5dcbae6be8dec35b9a1b6e55",
+      "title": "Baby Shark",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Traditional Baby Shark"
+    },
+    {
+      "id": "5bd2fb61e8dec3255a00b25d",
+      "title": "Californication (tutorial)",
+      "artist": "Red Hot Chili Peppers",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Red Hot Chili Peppers Californication (tutorial)"
+    },
+    {
+      "id": "5b8e478fb3984c68ed8192b5",
+      "title": "Sakkijarven Polkka",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Traditional Sakkijarven Polkka"
+    },
+    {
+      "id": "5b8fc60eb3984c2f89e24ad7",
+      "title": "O Sole Mio (in A)",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Traditional O Sole Mio (in A)"
+    },
+    {
+      "id": "5b43437ce8dec348bf691438",
+      "title": "Down",
+      "artist": "Marian Hill",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Marian Hill Down"
+    },
+    {
+      "id": "5b434602e8dec348bf6949c7",
+      "title": "I Want Crazy - Encore",
+      "artist": "Hunter Hayes",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Hunter Hayes I Want Crazy - Encore"
+    },
+    {
+      "id": "5bb4c437e8dec378b6bf3878",
+      "title": "Dirty Work",
+      "artist": "Steely Dan",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Steely Dan Dirty Work"
+    },
+    {
+      "id": "5b0e9f7ee8dec30a7534b283",
+      "title": "American Pie",
+      "artist": "Don McLean",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Don McLean American Pie"
+    },
+    {
+      "id": "5b8e45f7b3984c68ed8191b1",
+      "title": "Swing Low, Sweet Chariot",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Traditional Swing Low, Sweet Chariot"
+    },
+    {
+      "id": "5b0e9e9de8dec30a7534a87d",
+      "title": "Yellow",
+      "artist": "Coldplay",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Coldplay Yellow"
+    },
+    {
+      "id": "5cbedad0e8dec33e65e2806f",
+      "title": "Redemption Song",
+      "artist": "Bob Marley",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Bob Marley Redemption Song"
+    },
+    {
+      "id": "5b14f219e8dec30152a163cd",
+      "title": "Man! I Feel Like A Woman!",
+      "artist": "Shania Twain",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Shania Twain Man! I Feel Like A Woman!"
+    },
+    {
+      "id": "5b43463fe8dec348bf6949d9",
+      "title": "You Know You Like It",
+      "artist": "AlunaGeorge",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "AlunaGeorge You Know You Like It"
+    },
+    {
+      "id": "5b0e9d99e8dec30a75346e3f",
+      "title": "Losing My Religion",
+      "artist": "R.E.M.",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "R.E.M. Losing My Religion"
+    },
+    {
+      "id": "5b4340a0e8dec348bf68dabf",
+      "title": "All Out Of Love",
+      "artist": "Air Supply",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Air Supply All Out Of Love"
+    },
+    {
+      "id": "5da461f8e8dec333b9de7a7e",
+      "title": "I Just Want To Make Love To You",
+      "artist": "Etta James",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Etta James I Just Want To Make Love To You"
+    },
+    {
+      "id": "5bfd0e66e8dec36b6587edfe",
+      "title": "Roots",
+      "artist": "Imagine Dragons",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Imagine Dragons Roots"
+    },
+    {
+      "id": "5cf4f623e8dec32e160521ef",
+      "title": "Sharp Dressed Man",
+      "artist": "ZZ Top",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "ZZ Top Sharp Dressed Man"
+    },
+    {
+      "id": "5b14ff27e8dec30152a1640b",
+      "title": "More Than You Know",
+      "artist": "Axwell Λ Ingrosso",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Axwell Λ Ingrosso More Than You Know"
+    },
+    {
+      "id": "5b45aaeae8dec365ca06e314",
+      "title": "Interstate Love Song",
+      "artist": "Stone Temple Pilots",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Stone Temple Pilots Interstate Love Song"
+    },
+    {
+      "id": "5b8e43eab3984c68ed819037",
+      "title": "Adir Hu",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Traditional Adir Hu"
+    },
+    {
+      "id": "5b1525f4e8dec30152a1ef05",
+      "title": "I Bet My Life",
+      "artist": "Imagine Dragons",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Imagine Dragons I Bet My Life"
+    },
+    {
+      "id": "5d021214e8dec344dd8349ab",
+      "title": "watch",
+      "artist": "Billie Eilish",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Billie Eilish watch"
+    },
+    {
+      "id": "5b434a09e8dec348bf69bfdb",
+      "title": "Friday I'm In Love",
+      "artist": "The Cure",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "The Cure Friday I'm In Love"
+    },
+    {
+      "id": "5b8e46eab3984c68ed819249",
+      "title": "Verka Kaludjerka",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Traditional Verka Kaludjerka"
+    },
+    {
+      "id": "5b431ecbe8dec348bf664ff8",
+      "title": "Hasta La Raíz",
+      "artist": "Natalia Lafourcade",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Natalia Lafourcade Hasta La Raíz"
+    },
+    {
+      "id": "5cdd02dce8dec33e0b50d6dc",
+      "title": "Thunderstruck",
+      "artist": "AC/DC",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "AC/DC Thunderstruck"
+    },
+    {
+      "id": "5b0ec725e8dec30a753629e5",
+      "title": "Simple Man",
+      "artist": "Lynyrd Skynyrd",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Lynyrd Skynyrd Simple Man"
+    },
+    {
+      "id": "5b14f1cae8dec30152a163c8",
+      "title": "Waterloo",
+      "artist": "ABBA",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "ABBA Waterloo"
+    },
+    {
+      "id": "5bd30cc9e8dec3255a023bf7",
+      "title": "Californication (short)",
+      "artist": "Red Hot Chili Peppers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Red Hot Chili Peppers Californication (short)"
+    },
+    {
+      "id": "5b179ec5e8dec30604638e7e",
+      "title": "Next To Me",
+      "artist": "Imagine Dragons",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Imagine Dragons Next To Me"
+    },
+    {
+      "id": "5b434cbbe8dec348bf6a0091",
+      "title": "On & On",
+      "artist": "Erykah Badu",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Erykah Badu On & On"
+    },
+    {
+      "id": "5b8e482db3984c68ed81930d",
+      "title": "Salt Creek (in A)",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Traditional Salt Creek (in A)"
+    },
+    {
+      "id": "5b717808e8dec36155ecc32e",
+      "title": "Sailing",
+      "artist": "Christopher Cross",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Christopher Cross Sailing"
+    },
+    {
+      "id": "5b0eb289e8dec30a75357f40",
+      "title": "In Case You Didn't Know",
+      "artist": "Brett Young",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Brett Young In Case You Didn't Know"
+    },
+    {
+      "id": "5df2055fe8dec343cb758758",
+      "title": "Entre Le Boeuf Et L'ane Gris",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Traditional Entre Le Boeuf Et L'ane Gris"
+    },
+    {
+      "id": "5b434023e8dec348bf68d406",
+      "title": "Dirty Little Secret",
+      "artist": "The All-American Rejects",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "The All-American Rejects Dirty Little Secret"
+    },
+    {
+      "id": "5b14ffaae8dec30152a16411",
+      "title": "Clocks",
+      "artist": "Coldplay",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Coldplay Clocks"
+    },
+    {
+      "id": "5b8e46beb3984c68ed81922f",
+      "title": "Je Te Veux",
+      "artist": "Erik Satie",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Erik Satie Je Te Veux"
+    },
+    {
+      "id": "5b8fc593b3984c2f89e24a5d",
+      "title": "Yankee Doodle",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Traditional Yankee Doodle"
+    },
+    {
+      "id": "5d0a210ee8dec305ddcf4e72",
+      "title": "T.N.T.",
+      "artist": "AC/DC",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "AC/DC T.N.T."
+    },
+    {
+      "id": "5db95e21e8dec31a41ca8e86",
+      "title": "Man Of Constant Sorrow",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Traditional Man Of Constant Sorrow"
+    },
+    {
+      "id": "5b8e43dbb3984c68ed81900d",
+      "title": "My Loving Brother",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Traditional My Loving Brother"
+    },
+    {
+      "id": "5c41b39fe8dec35ffd13e1ad",
+      "title": "Territory (E)",
+      "artist": "Sepultura",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Sepultura Territory (E)"
+    },
+    {
+      "id": "5b0fef62e8dec30a7537e7a7",
+      "title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Red Hot Chili Peppers Can't Stop"
+    },
+    {
+      "id": "5b434915e8dec348bf69aa54",
+      "title": "Breakdown",
+      "artist": "Tom Petty And The Heartbreakers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Tom Petty And The Heartbreakers Breakdown"
+    },
+    {
+      "id": "5c3f2a07e8dec36be7a2d1ae",
+      "title": "Love And Happiness (short)",
+      "artist": "Al Green",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Al Green Love And Happiness (short)"
+    },
+    {
+      "id": "5b434e45e8dec348bf6a2122",
+      "title": "Hard To Handle",
+      "artist": "Otis Redding",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Otis Redding Hard To Handle"
+    },
+    {
+      "id": "5c6d3507e8dec373d75285b0",
+      "title": "Foxey Lady",
+      "artist": "Jimi Hendrix",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Jimi Hendrix Foxey Lady"
+    },
+    {
+      "id": "5b14f4b5e8dec30152a163dd",
+      "title": "From This Moment On",
+      "artist": "Shania Twain",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Shania Twain From This Moment On"
+    },
+    {
+      "id": "5d91da08e8dec350be7225c3",
+      "title": "Ophelia",
+      "artist": "The Lumineers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "The Lumineers Ophelia"
+    },
+    {
+      "id": "5b434b57e8dec348bf69caab",
+      "title": "Plush",
+      "artist": "Stone Temple Pilots",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Stone Temple Pilots Plush"
+    },
+    {
+      "id": "5b8fa623b3984c209a0aca9b",
+      "title": "What I Did With It",
+      "artist": "Rob Scallon",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Rob Scallon What I Did With It"
+    },
+    {
+      "id": "5b0e835ee8dec30a7532d511",
+      "title": "Turning Tables",
+      "artist": "Adele",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Adele Turning Tables"
+    },
+    {
+      "id": "5c41b5d3e8dec35ffd13e231",
+      "title": "South Of Heaven (Eb)",
+      "artist": "Slayer",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Slayer South Of Heaven (Eb)"
+    },
+    {
+      "id": "5c90285fe8dec3298e343dff",
+      "title": "Guitar In 60 Seconds",
+      "artist": "Rob Scallon",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Rob Scallon Guitar In 60 Seconds"
+    },
+    {
+      "id": "5b6da20fe8dec35ef9692fd1",
+      "title": "Gimme Three Steps",
+      "artist": "Lynyrd Skynyrd",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Lynyrd Skynyrd Gimme Three Steps"
+    },
+    {
+      "id": "5cebca74e8dec3107ed2c57f",
+      "title": "Tarantella (short)",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Traditional Tarantella (short)"
+    },
+    {
+      "id": "5da47812e8dec333b9dfa3ae",
+      "title": "Bang Bang",
+      "artist": "Ariana Grande, Jessie J, Nicki Minaj",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Ariana Grande, Jessie J, Nicki Minaj Bang Bang"
+    },
+    {
+      "id": "5c3ee8ede8dec36be7a12502",
+      "title": "Santeria",
+      "artist": "Sublime",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Sublime Santeria"
+    },
+    {
+      "id": "5d0215f7e8dec344dd838200",
+      "title": "Don't Dream It's Over",
+      "artist": "Crowded House",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Crowded House Don't Dream It's Over"
+    },
+    {
+      "id": "5b8e45bab3984c68ed81918d",
+      "title": "Queen Of The Night",
+      "artist": "Wolfgang Amadeus Mozart",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Wolfgang Amadeus Mozart Queen Of The Night"
+    },
+    {
+      "id": "5ca2ffece8dec32053a25e6c",
+      "title": "Fast Car",
+      "artist": "Tracy Chapman",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Tracy Chapman Fast Car"
+    },
+    {
+      "id": "5b8fc8dcb3984c2f89e24ca7",
+      "title": "Queen Of The Night (short)",
+      "artist": "Wolfgang Amadeus Mozart",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Wolfgang Amadeus Mozart Queen Of The Night (short)"
+    },
+    {
+      "id": "5dcd355ce8dec36bbe2dfca5",
+      "title": "Douce nuit",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Traditional Douce nuit"
+    },
+    {
+      "id": "5b8e46f1b3984c68ed81924d",
+      "title": "Andante",
+      "artist": "Wolfgang Amadeus Mozart",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Wolfgang Amadeus Mozart Andante"
+    },
+    {
+      "id": "5c1cb5d2e8dec3480caa329a",
+      "title": "Fur Elise (Challenge)",
+      "artist": "Ludwig Van Beethoven",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Ludwig Van Beethoven Fur Elise (Challenge)"
+    },
+    {
+      "id": "5b431e75e8dec348bf664fc7",
+      "title": "Here Without You (in Am)",
+      "artist": "3 Doors Down",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "3 Doors Down Here Without You (in Am)"
+    },
+    {
+      "id": "5b0ebb2ee8dec30a753629c5",
+      "title": "Snow (Hey Oh)",
+      "artist": "Red Hot Chili Peppers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Red Hot Chili Peppers Snow (Hey Oh)"
+    },
+    {
+      "id": "5b8e47d9b3984c68ed8192df",
+      "title": "Wedding March",
+      "artist": "Erkki Melartin",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Erkki Melartin Wedding March"
+    },
+    {
+      "id": "5cbed96fe8dec33e65e27126",
+      "title": "Kiss From A Rose",
+      "artist": "Seal",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Seal Kiss From A Rose"
+    },
+    {
+      "id": "5dcd3b82e8dec36bbe2e0a9e",
+      "title": "Noche De Paz",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Traditional Noche De Paz"
+    },
+    {
+      "id": "5bac60b0e8dec33e932b178a",
+      "title": "La Llorona",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Traditional La Llorona"
+    },
+    {
+      "id": "5b14f580e8dec30152a163e3",
+      "title": "Beauty And The Beast",
+      "artist": "Beauty and the Beast",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Beauty and the Beast Beauty And The Beast"
+    },
+    {
+      "id": "5b0fdff1e8dec30a7537e74f",
+      "title": "That Don't Impress Me Much",
+      "artist": "Shania Twain",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Shania Twain That Don't Impress Me Much"
+    },
+    {
+      "id": "5b4348c9e8dec348bf699f7d",
+      "title": "Rock You Like A Hurricane",
+      "artist": "Scorpions",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Scorpions Rock You Like A Hurricane"
+    },
+    {
+      "id": "5b434404e8dec348bf692998",
+      "title": "Here Comes Your Man",
+      "artist": "Pixies",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Pixies Here Comes Your Man"
+    },
+    {
+      "id": "5b15232de8dec30152a1eede",
+      "title": "It's Time",
+      "artist": "Imagine Dragons",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Imagine Dragons It's Time"
+    },
+    {
+      "id": "5b14f5ace8dec30152a163e5",
+      "title": "Detroit Rock City",
+      "artist": "KISS",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "KISS Detroit Rock City"
+    },
+    {
+      "id": "5c41b436e8dec35ffd13e1d7",
+      "title": "Refuse / Resist (E)",
+      "artist": "Sepultura",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Sepultura Refuse / Resist (E)"
+    },
+    {
+      "id": "5bef4291e8dec318099cff45",
+      "title": "More Than This",
+      "artist": "One Direction",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "One Direction More Than This"
+    },
+    {
+      "id": "5c41b4f4e8dec35ffd13e205",
+      "title": "Seasons In The Abyss (Eb)",
+      "artist": "Slayer",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Slayer Seasons In The Abyss (Eb)"
+    },
+    {
+      "id": "5bd2fe1de8dec3255a01028b",
+      "title": "Take Me Out (tutorial)",
+      "artist": "Franz Ferdinand",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Franz Ferdinand Take Me Out (tutorial)"
+    },
+    {
+      "id": "5b152679e8dec30152a1ef0c",
+      "title": "Cosmic Love",
+      "artist": "Florence + The Machine",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Florence + The Machine Cosmic Love"
+    },
+    {
+      "id": "5cee3513e8dec321873e44c0",
+      "title": "bury a friend",
+      "artist": "Billie Eilish",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Billie Eilish bury a friend"
+    },
+    {
+      "id": "5b8e44b0b3984c68ed8190d9",
+      "title": "Tres Lindas Cubanas",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Traditional Tres Lindas Cubanas"
+    },
+    {
+      "id": "5b29e4c9e8dec32f61b9f720",
+      "title": "Seven Nation Army (short)",
+      "artist": "The White Stripes",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "The White Stripes Seven Nation Army (short)"
+    },
+    {
+      "id": "5c07c1b7e8dec37f0b1e704f",
+      "title": "Wildest Dreams",
+      "artist": "Iron Maiden",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Iron Maiden Wildest Dreams"
+    },
+    {
+      "id": "5cf4f65fe8dec32e160521f6",
+      "title": "La Grange",
+      "artist": "ZZ Top",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "ZZ Top La Grange"
+    },
+    {
+      "id": "5b0ebbf7e8dec30a753629c9",
+      "title": "Chasing Cars",
+      "artist": "Snow Patrol",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Snow Patrol Chasing Cars"
+    },
+    {
+      "id": "5b8fa75cb3984c209a0acb3f",
+      "title": "Shadowed By Darkness",
+      "artist": "Stevie T",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Stevie T Shadowed By Darkness"
+    },
+    {
+      "id": "5b8fbe02e8dec3365051652c",
+      "title": "The Thrill Is Gone",
+      "artist": "B.B. King",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "B.B. King The Thrill Is Gone"
+    },
+    {
+      "id": "5bfbf6bbe8dec36b6585dd62",
+      "title": "Nothing Like Us",
+      "artist": "Justin Bieber",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Justin Bieber Nothing Like Us"
+    },
+    {
+      "id": "5b0e41e7e8dec30a75311abc",
+      "title": "A Thousand Miles",
+      "artist": "Vanessa Carlton",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Vanessa Carlton A Thousand Miles"
+    },
+    {
+      "id": "5b434cece8dec348bf6a00b4",
+      "title": "Mother",
+      "artist": "Danzig",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Danzig Mother"
+    },
+    {
+      "id": "5c0f6cfce8dec348a88f6324",
+      "title": "O Little Town Of Bethlehem",
+      "artist": "Lewis Redner",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Lewis Redner O Little Town Of Bethlehem"
+    },
+    {
+      "id": "5b15251fe8dec30152a1eef9",
+      "title": "Your Song",
+      "artist": "Elton John",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Elton John Your Song"
+    },
+    {
+      "id": "5b7178d0e8dec36155ecc366",
+      "title": "Tired Of Being Alone",
+      "artist": "Al Green",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Al Green Tired Of Being Alone"
+    },
+    {
+      "id": "5b717a65e8dec36155eccfbe",
+      "title": "Riding With The King",
+      "artist": "Eric Clapton, B.B. King",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Eric Clapton, B.B. King Riding With The King"
+    },
+    {
+      "id": "5dd5c38ce8dec37b447c675b",
+      "title": "Sweet Home Alabama (30 sec ad)",
+      "artist": "Lynyrd Skynyrd",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Lynyrd Skynyrd Sweet Home Alabama (30 sec ad)"
+    },
+    {
+      "id": "5b8e46a0b3984c68ed81921d",
+      "title": "Swanee River",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Traditional Swanee River"
+    },
+    {
+      "id": "5c88e068e8dec33925fb0e10",
+      "title": "And I'm Telling You I'm Not Going",
+      "artist": "Dreamgirls",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Dreamgirls And I'm Telling You I'm Not Going"
+    },
+    {
+      "id": "5c6d34cfe8dec373d75285a2",
+      "title": "Fire",
+      "artist": "Jimi Hendrix",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Jimi Hendrix Fire"
+    },
+    {
+      "id": "5b8fa58eb3984c209a0aca4b",
+      "title": "Four Seasons (Winter)",
+      "artist": "Antonio Vivaldi",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Antonio Vivaldi Four Seasons (Winter)"
+    },
+    {
+      "id": "5b431054e8dec348bf65b4a8",
+      "title": "You're So Vain",
+      "artist": "Carly Simon",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Carly Simon You're So Vain"
+    },
+    {
+      "id": "5b6c3ab6e8dec347b474d8c8",
+      "title": "My Friends Over You",
+      "artist": "New Found Glory",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "New Found Glory My Friends Over You"
+    },
+    {
+      "id": "5c63e361e8dec35657d9ac98",
+      "title": "Everybody Wants To Rule The World",
+      "artist": "Tears For Fears",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Tears For Fears Everybody Wants To Rule The World"
+    },
+    {
+      "id": "5d64e482e8dec365bc08eeba",
+      "title": "It's a Long Way To The Top (If You Wanna Rock 'N' Roll)",
+      "artist": "AC/DC",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "AC/DC It's a Long Way To The Top (If You Wanna Rock 'N' Roll)"
+    },
+    {
+      "id": "5c11033de8dec3290fb42e01",
+      "title": "God Rest Ye Merry Gentlemen",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Traditional God Rest Ye Merry Gentlemen"
+    },
+    {
+      "id": "5b0e9d12e8dec30a75344c32",
+      "title": "The Scientist",
+      "artist": "Coldplay",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Coldplay The Scientist"
+    },
+    {
+      "id": "5ccad2dfe8dec37dc845da5e",
+      "title": "idontwannabeyouanymore",
+      "artist": "Billie Eilish",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Billie Eilish idontwannabeyouanymore"
+    },
+    {
+      "id": "5df1ed4de8dec343cb73f5fd",
+      "title": "Love Shack",
+      "artist": "The B-52's",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "The B-52's Love Shack"
+    },
+    {
+      "id": "5cf4f81ae8dec32e1605316c",
+      "title": "Always Look On The Bright Side Of Life",
+      "artist": "Monty Python",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Monty Python Always Look On The Bright Side Of Life"
+    },
+    {
+      "id": "5b8e44c9b3984c68ed8190e7",
+      "title": "Swan Lake",
+      "artist": "Pyotr Ilyich Tchaikovsky",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Pyotr Ilyich Tchaikovsky Swan Lake"
+    },
+    {
+      "id": "5b8fa62cb3984c209a0acaa1",
+      "title": "Super Metal Audition",
+      "artist": "Rob Scallon",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Rob Scallon Super Metal Audition"
+    },
+    {
+      "id": "5dcd3ae7e8dec36bbe2e0a90",
+      "title": "Venid Fieles Todos",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Traditional Venid Fieles Todos"
+    },
+    {
+      "id": "5b14feb6e8dec30152a16407",
+      "title": "Everywhere",
+      "artist": "Fleetwood Mac",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Fleetwood Mac Everywhere"
+    },
+    {
+      "id": "5d10ae4de8dec310a8f5728f",
+      "title": "La Paloma (in C)",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Traditional La Paloma (in C)"
+    },
+    {
+      "id": "5b0eb31be8dec30a75357f44",
+      "title": "Adore You",
+      "artist": "Miley Cyrus",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Miley Cyrus Adore You"
+    },
+    {
+      "id": "5bd96f9de8dec32376c434aa",
+      "title": "2nd Movement From Symphony 94 (short)",
+      "artist": "Joseph Haydn",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Joseph Haydn 2nd Movement From Symphony 94 (short)"
+    },
+    {
+      "id": "5b434c30e8dec348bf69e03a",
+      "title": "Sailing",
+      "artist": "Rod Stewart",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Rod Stewart Sailing"
+    },
+    {
+      "id": "5cda92ffe8dec3548a769276",
+      "title": "Wild World",
+      "artist": "Cat Stevens",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Cat Stevens Wild World"
+    },
+    {
+      "id": "5d021579e8dec344dd8381bd",
+      "title": "Le Onde",
+      "artist": "Ludovico Einaudi",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Ludovico Einaudi Le Onde"
+    },
+    {
+      "id": "5c5bf36de8dec3078bdc1765",
+      "title": "Iris",
+      "artist": "Goo Goo Dolls",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Goo Goo Dolls Iris"
+    },
+    {
+      "id": "5dcd39a5e8dec36bbe2e0a7b",
+      "title": "O Tannenbaum",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Traditional O Tannenbaum"
+    },
+    {
+      "id": "5b8e468fb3984c68ed819211",
+      "title": "Flower Duet (short)",
+      "artist": "Leo Delibes",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Leo Delibes Flower Duet (short)"
+    },
+    {
+      "id": "5c4046f3e8dec33d3b16da45",
+      "title": "Still Loving You (Gm, short)",
+      "artist": "Scorpions",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Scorpions Still Loving You (Gm, short)"
+    },
+    {
+      "id": "5cdd04e2e8dec33e0b50d6ea",
+      "title": "Shoot To Thrill",
+      "artist": "AC/DC",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "AC/DC Shoot To Thrill"
+    },
+    {
+      "id": "5b432177e8dec348bf66715f",
+      "title": "We Didn't Start The Fire",
+      "artist": "Billy Joel",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Billy Joel We Didn't Start The Fire"
+    },
+    {
+      "id": "5b8e43e3b3984c68ed819025",
+      "title": "Romanza",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Traditional Romanza"
+    },
+    {
+      "id": "5b8e463cb3984c68ed8191d9",
+      "title": "Cielito Lindo",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Traditional Cielito Lindo"
+    },
+    {
+      "id": "5c6d4030e8dec373d752d09d",
+      "title": "Spanish Castle Magic",
+      "artist": "Jimi Hendrix",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Jimi Hendrix Spanish Castle Magic"
+    },
+    {
+      "id": "5e79c622e9f31f3a7bd043b1",
+      "title": "Numb",
+      "artist": "Linkin Park",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Linkin Park Numb"
+    },
+    {
+      "id": "5b8e4728b3984c68ed819273",
+      "title": "Motherless Child",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Traditional Motherless Child"
+    },
+    {
+      "id": "5b430f25e8dec348bf65947a",
+      "title": "For The First Time",
+      "artist": "The Script",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "The Script For The First Time"
+    },
+    {
+      "id": "5b0ea039e8dec30a7534cbc7",
+      "title": "Under The Bridge",
+      "artist": "Red Hot Chili Peppers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Red Hot Chili Peppers Under The Bridge"
+    },
+    {
+      "id": "5b8e45cbb3984c68ed819199",
+      "title": "Guantanamera",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Traditional Guantanamera"
+    },
+    {
+      "id": "5d662961e8dec36f9809f7e1",
+      "title": "Arthur McBride",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Traditional Arthur McBride"
+    },
+    {
+      "id": "5b152909e8dec30152a1ef1b",
+      "title": "Fear Of The Dark",
+      "artist": "Iron Maiden",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Iron Maiden Fear Of The Dark"
+    },
+    {
+      "id": "5c5bf423e8dec3078bdc1791",
+      "title": "Mad World",
+      "artist": "Gary Jules (Feat. Michael Andrews)",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Gary Jules (Feat. Michael Andrews) Mad World"
+    },
+    {
+      "id": "5b434fd3e8dec348bf6a4c15",
+      "title": "It's My Life",
+      "artist": "No Doubt",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "No Doubt It's My Life"
+    },
+    {
+      "id": "5b43444ae8dec348bf6929a7",
+      "title": "I Wanna Rock",
+      "artist": "Twisted Sister",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Twisted Sister I Wanna Rock"
+    },
+    {
+      "id": "5b4321c0e8dec348bf6679ac",
+      "title": "Little Lies",
+      "artist": "Fleetwood Mac",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Fleetwood Mac Little Lies"
+    },
+    {
+      "id": "5ba584e4e8dec304cfedf57c",
+      "title": "I Should Spend More Time With You",
+      "artist": "Rob Scallon",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Rob Scallon I Should Spend More Time With You"
+    },
+    {
+      "id": "5dcbafdce8dec35b9a1b6e67",
+      "title": "Walk This Way",
+      "artist": "Aerosmith",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Aerosmith Walk This Way"
+    },
+    {
+      "id": "5b0fefbae8dec30a7537e7ac",
+      "title": "Dancing On My Own",
+      "artist": "Calum Scott",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Calum Scott Dancing On My Own"
+    },
+    {
+      "id": "5b434132e8dec348bf68debf",
+      "title": "Somebody To Love",
+      "artist": "Jefferson Airplane",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Jefferson Airplane Somebody To Love"
+    },
+    {
+      "id": "5b8e46fdb3984c68ed819257",
+      "title": "Soi Vienosti Murheeni Soitto",
+      "artist": "Oskar Merikanto",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Oskar Merikanto Soi Vienosti Murheeni Soitto"
+    },
+    {
+      "id": "5dde3288e8dec30c1e309968",
+      "title": "Wouldn't It Be Nice",
+      "artist": "The Beach Boys",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "The Beach Boys Wouldn't It Be Nice"
+    },
+    {
+      "id": "5b8f73a6b3984c13548374bf",
+      "title": "Molly Malone",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Traditional Molly Malone"
+    },
+    {
+      "id": "5d10796fe8dec310a8f357d7",
+      "title": "I Like Me Better",
+      "artist": "Lauv",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Lauv I Like Me Better"
+    },
+    {
+      "id": "5b0e99dee8dec30a75342a3c",
+      "title": "Take Me Out",
+      "artist": "Franz Ferdinand",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Franz Ferdinand Take Me Out"
+    },
+    {
+      "id": "5b8e478cb3984c68ed8192b3",
+      "title": "Paddy On The Railway",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Traditional Paddy On The Railway"
+    },
+    {
+      "id": "5ca3003be8dec32053a25e7f",
+      "title": "Ho Hey",
+      "artist": "The Lumineers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "The Lumineers Ho Hey"
+    },
+    {
+      "id": "5d02161de8dec344dd838203",
+      "title": "Don't Dream It's Over (D)",
+      "artist": "Crowded House",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Crowded House Don't Dream It's Over (D)"
+    },
+    {
+      "id": "5b8e453eb3984c68ed81913d",
+      "title": "Tannhauser",
+      "artist": "Richard Wagner",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Richard Wagner Tannhauser"
+    },
+    {
+      "id": "5b14f7abe8dec30152a163ee",
+      "title": "Don't Close Your Eyes",
+      "artist": "Keith Whitley",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Keith Whitley Don't Close Your Eyes"
+    },
+    {
+      "id": "5cebcb1ae8dec3107ed2dcd3",
+      "title": "Surprise Symphony",
+      "artist": "Joseph Haydn",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Joseph Haydn Surprise Symphony"
+    },
+    {
+      "id": "5b8f7383b3984c13548374bb",
+      "title": "Salt Creek (in G)",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Traditional Salt Creek (in G)"
+    },
+    {
+      "id": "5dcd3a31e8dec36bbe2e0a89",
+      "title": "O Christmas Tree",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Traditional O Christmas Tree"
+    },
+    {
+      "id": "5bc864b1e8dec3682785fdcc",
+      "title": "Texas Flood",
+      "artist": "Stevie Ray Vaughan",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Stevie Ray Vaughan Texas Flood"
+    },
+    {
+      "id": "5b8e4678b3984c68ed819203",
+      "title": "The Rambling Gambler",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Traditional The Rambling Gambler"
+    },
+    {
+      "id": "5c41b403e8dec35ffd13e1c9",
+      "title": "Refuse / Resist (D)",
+      "artist": "Sepultura",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Sepultura Refuse / Resist (D)"
+    },
+    {
+      "id": "5cee35e3e8dec321873e44d4",
+      "title": "The Man Comes Around",
+      "artist": "Johnny Cash",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Johnny Cash The Man Comes Around"
+    },
+    {
+      "id": "5cb6e066e8dec34c009b3dcf",
+      "title": "Back In Black",
+      "artist": "AC/DC",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "AC/DC Back In Black"
+    },
+    {
+      "id": "5bf54687e8dec363e1387476",
+      "title": "Happy Birthday (instrumental in F)",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Traditional Happy Birthday (instrumental in F)"
+    },
+    {
+      "id": "5c3f2846e8dec36be7a2d144",
+      "title": "Nothin' But A Good Time (in A, short)",
+      "artist": "Poison",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Poison Nothin' But A Good Time (in A, short)"
+    },
+    {
+      "id": "5b14f37fe8dec30152a163d5",
+      "title": "Just Like Heaven",
+      "artist": "The Cure",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "The Cure Just Like Heaven"
+    },
+    {
+      "id": "5b431fc1e8dec348bf665005",
+      "title": "Pompeii",
+      "artist": "Bastille",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Bastille Pompeii"
+    },
+    {
+      "id": "5b8e4501b3984c68ed819113",
+      "title": "St Matthew Passion",
+      "artist": "Johann Sebastian Bach",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Johann Sebastian Bach St Matthew Passion"
+    },
+    {
+      "id": "5cf4f780e8dec32e16052206",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Backstreet Boys I Want It That Way"
+    },
+    {
+      "id": "5b8e43c6b3984c68ed818fd7",
+      "title": "Malaguena (surf)",
+      "artist": "Traditional",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Traditional Malaguena (surf)"
+    },
+    {
+      "id": "5b0e9786e8dec30a7534082b",
+      "title": "Summer Of '69",
+      "artist": "Bryan Adams",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Bryan Adams Summer Of '69"
+    },
+    {
+      "id": "5e81aee8b462eedc024ef68b",
+      "title": "In The End",
+      "artist": "Linkin Park",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Linkin Park In The End"
+    },
+    {
+      "id": "5e8c1daa6b81aaac87086c78",
+      "title": "Let There Be Rock",
+      "artist": "AC/DC",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "AC/DC Let There Be Rock"
+    },
+    {
+      "id": "5ea78bec8e233fe84b1490f5",
+      "title": "Born Under A Bad Sign (lesson)",
+      "artist": "Cream",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Cream Born Under A Bad Sign (lesson)"
+    },
+    {
+      "id": "5ea78e828e233fe84b14912a",
+      "title": "Back In Black (lesson)",
+      "artist": "AC/DC",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "AC/DC Back In Black (lesson)"
+    },
+    {
+      "id": "5ea796d28e233fe84b14917b",
+      "title": "Come As You Are (lesson)",
+      "artist": "Nirvana",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Nirvana Come As You Are (lesson)"
+    },
+    {
+      "id": "5ea79a7a8e233fe84b14918c",
+      "title": "Free Bird (lesson)",
+      "artist": "Lynyrd Skynyrd",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Lynyrd Skynyrd Free Bird (lesson)"
+    },
+    {
+      "id": "5ea79d858e233fe84b1491c6",
+      "title": "Hurt (lesson)",
+      "artist": "Johnny Cash",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Johnny Cash Hurt (lesson)"
+    },
+    {
+      "id": "5ea79eaa8e233fe84b1491e8",
+      "title": "Californication (lesson)",
+      "artist": "Red Hot Chili Peppers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Red Hot Chili Peppers Californication (lesson)"
+    },
+    {
+      "id": "5ec2791a387fd6a1905b2ca2",
+      "title": "Mary Had A Little Lamb",
+      "artist": "Stevie Ray Vaughan",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Stevie Ray Vaughan Mary Had A Little Lamb"
+    },
+    {
+      "id": "5ecd1292ce608800c30b0291",
+      "title": "Since You Been Gone",
+      "artist": "Rainbow",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Rainbow Since You Been Gone"
+    },
+    {
+      "id": "5ecde1aace608800c30b0420",
+      "title": "Seven Nation Army (simplified)",
+      "artist": "The White Stripes",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "The White Stripes Seven Nation Army (simplified)"
+    },
+    {
+      "id": "5ee742a7cc689d9cd03d7509",
+      "title": "About A Girl (lesson)",
+      "artist": "Nirvana",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Nirvana About A Girl (lesson)"
+    },
+    {
+      "id": "5ee9920a9ee34416281bd6cd",
+      "title": "Born To Be Wild (lesson)",
+      "artist": "Steppenwolf",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Steppenwolf Born To Be Wild (lesson)"
+    },
+    {
+      "id": "5ee99c749ee34416281bd6fd",
+      "title": "The Thrill Is Gone (lesson)",
+      "artist": "B.B. King",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "B.B. King The Thrill Is Gone (lesson)"
+    },
+    {
+      "id": "5ee9c9b89ee34416281bd808",
+      "title": "Black Hole Sun",
+      "artist": "Soundgarden",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Soundgarden Black Hole Sun"
+    },
+    {
+      "id": "5ee9e7ab9ee34416281bd87c",
+      "title": "I Was Made For Lovin' You (short)",
+      "artist": "KISS",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "KISS I Was Made For Lovin' You (short)"
+    },
+    {
+      "id": "5ef992e21c1f588b13264b89",
+      "title": "Soul Bossa Nova",
+      "artist": "Quincy Jones",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Quincy Jones Soul Bossa Nova"
+    },
+    {
+      "id": "5ef9a78f1c1f588b13264c68",
+      "title": "Boulevard Of Broken Dreams",
+      "artist": "Green Day",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Green Day Boulevard Of Broken Dreams"
+    },
+    {
+      "id": "5ef9b8fc1c1f588b13264cb3",
+      "title": "Zombie",
+      "artist": "The Cranberries",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "The Cranberries Zombie"
+    },
+    {
+      "id": "5ef9b98e1c1f588b13264cc6",
+      "title": "Right Here Waiting",
+      "artist": "Richard Marx",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Richard Marx Right Here Waiting"
+    },
+    {
+      "id": "5ef9ba351c1f588b13264ccf",
+      "title": "Good Riddance (Time Of Your Life)",
+      "artist": "Green Day",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Green Day Good Riddance (Time Of Your Life)"
+    },
+    {
+      "id": "5ef9bbf31c1f588b13264ce6",
+      "title": "Wonderful Tonight",
+      "artist": "Eric Clapton",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Eric Clapton Wonderful Tonight"
+    },
+    {
+      "id": "5eff27a47d4c4a2469cc7c6d",
+      "title": "Supermassive Black Hole",
+      "artist": "Muse",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Muse Supermassive Black Hole"
+    },
+    {
+      "id": "5f1807bbc8e59f55d24f3471",
+      "title": "Karma Police",
+      "artist": "Radiohead",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Radiohead Karma Police"
+    },
+    {
+      "id": "5f3a4c8e9c3e4c207a914018",
+      "title": "Blitzkrieg Bop",
+      "artist": "Ramones",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Ramones Blitzkrieg Bop"
+    },
+    {
+      "id": "5f3bb0b1bc40912a52b3ba7f",
+      "title": "Beautiful Faces",
+      "artist": "Declan McKenna",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Declan McKenna Beautiful Faces"
+    },
+    {
+      "id": "5f3bb145bc40912a52b3ba8c",
+      "title": "Daniel, You’re Still A Child",
+      "artist": "Declan McKenna",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Declan McKenna Daniel, You’re Still A Child"
+    },
+    {
+      "id": "5f586da5f9811d8c79e7bd1a",
+      "title": "Wake Me Up When September Ends",
+      "artist": "Green Day",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Green Day Wake Me Up When September Ends"
+    },
+    {
+      "id": "5f5b097bf9811d8c79e7d064",
+      "title": "Last Christmas",
+      "artist": "Wham!",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Wham! Last Christmas"
+    },
+    {
+      "id": "5f6afe943579a0008c0ea4af",
+      "title": "Still Into You",
+      "artist": "Paramore",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Paramore Still Into You"
+    },
+    {
+      "id": "5f72db2250ec11ecb499c096",
+      "title": "The Reason",
+      "artist": "Hoobastank",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Hoobastank The Reason"
+    },
+    {
+      "id": "5f72dc0f50ec11ecb499c0a8",
+      "title": "Sunshine Of Your Love",
+      "artist": "Cream",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Cream Sunshine Of Your Love"
+    },
+    {
+      "id": "5f869879a6398f5c16ff1342",
+      "title": "Heathens",
+      "artist": "Twenty One Pilots",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Twenty One Pilots Heathens"
+    },
+    {
+      "id": "5f88efc6a6398f5c16ff2420",
+      "title": "Come As You Are (preview)",
+      "artist": "Nirvana",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Nirvana Come As You Are (preview)"
+    },
+    {
+      "id": "5f88f33ea6398f5c16ff243c",
+      "title": "Hurt (preview)",
+      "artist": "Johnny Cash",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Johnny Cash Hurt (preview)"
+    },
+    {
+      "id": "5f890128a6398f5c16ff249b",
+      "title": "Californication (preview)",
+      "artist": "Red Hot Chili Peppers",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Red Hot Chili Peppers Californication (preview)"
+    },
+    {
+      "id": "5f890976a6398f5c16ff24d4",
+      "title": "About A Girl (preview)",
+      "artist": "Nirvana",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Nirvana About A Girl (preview)"
+    },
+    {
+      "id": "5f890db1a6398f5c16ff24f8",
+      "title": "Born To Be Wild (preview)",
+      "artist": "Steppenwolf",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Steppenwolf Born To Be Wild (preview)"
+    },
+    {
+      "id": "5f891308a6398f5c16ff2521",
+      "title": "The Thrill Is Gone (preview)",
+      "artist": "B.B. King",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "B.B. King The Thrill Is Gone (preview)"
+    },
+    {
+      "id": "5f8cdb08a6398f5c16ff3995",
+      "title": "Seven Nation Army (preview)",
+      "artist": "The White Stripes",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "The White Stripes Seven Nation Army (preview)"
+    },
+    {
+      "id": "5f8d6508c52270a3e3b10cf7",
+      "title": "Peaceful Easy Feeling",
+      "artist": "Eagles",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Eagles Peaceful Easy Feeling"
+    },
+    {
+      "id": "5f9240f9c52270a3e3b12b78",
+      "title": "Simple Man (preview)",
+      "artist": "Lynyrd Skynyrd",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Lynyrd Skynyrd Simple Man (preview)"
+    },
+    {
+      "id": "5f9808488990f90c8336493c",
+      "title": "Frosty The Snowman",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Traditional Frosty The Snowman"
+    },
+    {
+      "id": "5f9809a08990f90c8336494a",
+      "title": "Winter Wonderland",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Traditional Winter Wonderland"
+    },
+    {
+      "id": "5f99147c8990f90c83364fe9",
+      "title": "Cowboys From Hell",
+      "artist": "Pantera",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Pantera Cowboys From Hell"
+    },
+    {
+      "id": "5f9977578990f90c8336533a",
+      "title": "Jingle Bell Rock",
+      "artist": "Bobby Helms",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Bobby Helms Jingle Bell Rock"
+    },
+    {
+      "id": "5f9a7cf88990f90c83365970",
+      "title": "Llegó La Navidad",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Traditional Llegó La Navidad"
+    },
+    {
+      "id": "5f9a7e048990f90c8336598a",
+      "title": "Frosty El Muñeco De Nieve",
+      "artist": "Traditional",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Traditional Frosty El Muñeco De Nieve"
+    },
+    {
+      "id": "5fa0eb61df588a4d845daf41",
+      "title": "Dirty Work (preview)",
+      "artist": "Steely Dan",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Steely Dan Dirty Work (preview)"
+    },
+    {
+      "id": "5fa25adddf588a4d845db7e7",
+      "title": "7 Years",
+      "artist": "Lukas Graham",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Lukas Graham 7 Years"
+    },
+    {
+      "id": "5fb4dfa2877b31c9f4bf6d87",
+      "title": "American Idiot",
+      "artist": "Green Day",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Green Day American Idiot"
+    },
+    {
+      "id": "5fbe3b64c5ecd761eed10754",
+      "title": "Layla (Unplugged)",
+      "artist": "Eric Clapton",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Eric Clapton Layla (Unplugged)"
+    },
+    {
+      "id": "5fc8a839af79a5cd8c2c7f4f",
+      "title": "Kick It Out",
+      "artist": "Heart",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Heart Kick It Out"
+    },
+    {
+      "id": "5fd0b913ac516952e9b4c429",
+      "title": "Born To Play",
+      "artist": "Jon Batiste",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Jon Batiste Born To Play"
+    },
+    {
+      "id": "5fd0b94dac516952e9b4c42f",
+      "title": "Bigger Than Us",
+      "artist": "Jon Batiste",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Jon Batiste Bigger Than Us"
+    },
+    {
+      "id": "5fd0d2c6ac516952e9b4c543",
+      "title": "Misery Business",
+      "artist": "Paramore",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Paramore Misery Business"
+    },
+    {
+      "id": "5fd9bb9f59ef6937e544b0b8",
+      "title": "Nothing Else Matters",
+      "artist": "Metallica",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Metallica Nothing Else Matters"
+    },
+    {
+      "id": "5fd9bbc959ef6937e544b0be",
+      "title": "Enter Sandman",
+      "artist": "Metallica",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Metallica Enter Sandman"
+    },
+    {
+      "id": "5fd9bbfa59ef6937e544b0c3",
+      "title": "For Whom The Bell Tolls",
+      "artist": "Metallica",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Metallica For Whom The Bell Tolls"
+    },
+    {
+      "id": "5fd9bc3059ef6937e544b0c9",
+      "title": "The Unforgiven",
+      "artist": "Metallica",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Metallica The Unforgiven"
+    },
+    {
+      "id": "5fdb175459ef6937e544b96e",
+      "title": "Summertime Blues",
+      "artist": "Eddie Cochran",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Eddie Cochran Summertime Blues"
+    },
+    {
+      "id": "5ff45433f69fbd80094a5186",
+      "title": "Riptide",
+      "artist": "Vance Joy",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Vance Joy Riptide"
+    },
+    {
+      "id": "5ffc0c52c57d86adc8ae3575",
+      "title": "How You Remind Me",
+      "artist": "Nickelback",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Nickelback How You Remind Me"
+    },
+    {
+      "id": "5ffc0ce3c57d86adc8ae3587",
+      "title": "Uprising",
+      "artist": "Muse",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Muse Uprising"
+    },
+    {
+      "id": "600155e2b0f637b11105fa72",
+      "title": "I Wanna Be Sedated",
+      "artist": "Ramones",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Ramones I Wanna Be Sedated"
+    },
+    {
+      "id": "600156afb0f637b11105fa8b",
+      "title": "Get Down On It",
+      "artist": "Kool & The Gang",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Kool & The Gang Get Down On It"
+    },
+    {
+      "id": "60015732b0f637b11105faa4",
+      "title": "Papa's Got A Brand New Bag",
+      "artist": "James Brown",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "James Brown Papa's Got A Brand New Bag"
+    },
+    {
+      "id": "60015796b0f637b11105fab2",
+      "title": "Home Again",
+      "artist": "Michael Kiwanuka",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Michael Kiwanuka Home Again"
+    },
+    {
+      "id": "60227a7d4e8ed12a50f990d0",
+      "title": "You Were Meant For Me",
+      "artist": "Jewel",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Jewel You Were Meant For Me"
+    },
+    {
+      "id": "60238b934e8ed12a50f99828",
+      "title": "The Only Exception",
+      "artist": "Paramore",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Paramore The Only Exception"
+    },
+    {
+      "id": "60238d3c4e8ed12a50f9983e",
+      "title": "Young Hearts Run Free",
+      "artist": "Candi Staton",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Candi Staton Young Hearts Run Free"
+    },
+    {
+      "id": "60238df04e8ed12a50f9984e",
+      "title": "One Of Us",
+      "artist": "Joan Osborne",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Joan Osborne One Of Us"
+    },
+    {
+      "id": "60238eb34e8ed12a50f9985c",
+      "title": "High And Dry",
+      "artist": "Radiohead",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Radiohead High And Dry"
+    },
+    {
+      "id": "6035f8df7695487b042aa4c5",
+      "title": "Hot Stuff",
+      "artist": "Donna Summer",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Donna Summer Hot Stuff"
+    },
+    {
+      "id": "605067a7fcf15790134370aa",
+      "title": "Ride",
+      "artist": "Twenty One Pilots",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Twenty One Pilots Ride"
+    },
+    {
+      "id": "6050692bfcf15790134370d1",
+      "title": "I Got You Babe",
+      "artist": "Sonny & Cher",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Sonny & Cher I Got You Babe"
+    },
+    {
+      "id": "60506a7cfcf15790134370e9",
+      "title": "Photograph",
+      "artist": "Nickelback",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Nickelback Photograph"
+    },
+    {
+      "id": "60506dc7fcf157901343710b",
+      "title": "Breakfast At Tiffany's",
+      "artist": "Deep Blue Something",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Deep Blue Something Breakfast At Tiffany's"
+    },
+    {
+      "id": "608fe828ef7be61d15f672eb",
+      "title": "My Silver Lining",
+      "artist": "First Aid Kit",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "First Aid Kit My Silver Lining"
+    },
+    {
+      "id": "608fe97eef7be61d15f672fd",
+      "title": "Therefore I Am",
+      "artist": "Billie Eilish",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Billie Eilish Therefore I Am"
+    },
+    {
+      "id": "608feaedef7be61d15f67314",
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Michael Jackson Thriller"
+    },
+    {
+      "id": "60aca414d482482c3eeb1701",
+      "title": "Your Power",
+      "artist": "Billie Eilish",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Billie Eilish Your Power"
+    },
+    {
+      "id": "60aca58cd482482c3eeb171a",
+      "title": "Careless Whisper",
+      "artist": "George Michael",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "George Michael Careless Whisper"
+    },
+    {
+      "id": "60aca6f4d482482c3eeb173a",
+      "title": "Make Me Feel",
+      "artist": "Janelle Monáe",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Janelle Monáe Make Me Feel"
+    },
+    {
+      "id": "60b48f84f0e066b4b43bef19",
+      "title": "Lucky",
+      "artist": "Jason Mraz",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Jason Mraz Lucky"
+    },
+    {
+      "id": "60c0a7dfe55716123cd33f73",
+      "title": "Cool Girl",
+      "artist": "Tove Lo",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Tove Lo Cool Girl"
+    },
+    {
+      "id": "60c0a8b3e55716123cd33f88",
+      "title": "Escape (The Pina Colada Song)",
+      "artist": "Rupert Holmes",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Rupert Holmes Escape (The Pina Colada Song)"
+    },
+    {
+      "id": "60c0a979e55716123cd33fa2",
+      "title": "Hey There Delilah",
+      "artist": "Plain White T's",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Plain White T's Hey There Delilah"
+    },
+    {
+      "id": "60c0b596e55716123cd33ffe",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "artist": "ABBA",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "ABBA Gimme! Gimme! Gimme! (A Man After Midnight)"
+    },
+    {
+      "id": "60c9d0b9866bfae306cf9f76",
+      "title": "White Room",
+      "artist": "Cream",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Cream White Room"
+    },
+    {
+      "id": "60cc43a5364f92cc612434cd",
+      "title": "Otherside",
+      "artist": "Red Hot Chili Peppers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Red Hot Chili Peppers Otherside"
+    },
+    {
+      "id": "60cc4479364f92cc612434e3",
+      "title": "Lithium",
+      "artist": "Nirvana",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Nirvana Lithium"
+    },
+    {
+      "id": "60cc4591364f92cc612434f5",
+      "title": "Somebody That I Used To Know",
+      "artist": "Gotye feat. Kimbra",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Gotye feat. Kimbra Somebody That I Used To Know"
+    },
+    {
+      "id": "60f9e1460293d96fd983b148",
+      "title": "La Camisa Negra",
+      "artist": "Juanes",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Juanes La Camisa Negra"
+    },
+    {
+      "id": "610b7d220d644581481ff2d4",
+      "title": "I Won't Give Up",
+      "artist": "Jason Mraz",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Jason Mraz I Won't Give Up"
+    },
+    {
+      "id": "611a537d0d644581481ffa69",
+      "title": "93 Million Miles",
+      "artist": "Jason Mraz",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Jason Mraz 93 Million Miles"
+    },
+    {
+      "id": "611a54b60d644581481ffa7a",
+      "title": "Have It All",
+      "artist": "Jason Mraz",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Jason Mraz Have It All"
+    },
+    {
+      "id": "611b478829ca48a7e48502f0",
+      "title": "Peaches En Regalia",
+      "artist": "Frank Zappa",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "Frank Zappa Peaches En Regalia"
+    },
+    {
+      "id": "613192830e91a376313d722c",
+      "title": "Use Somebody",
+      "artist": "Kings Of Leon",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Kings Of Leon Use Somebody"
+    },
+    {
+      "id": "613703290e91a376313d748f",
+      "title": "Put Your Lights On",
+      "artist": "Santana",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Santana Put Your Lights On"
+    },
+    {
+      "id": "6137044270a0331b67f04a67",
+      "title": "Corre",
+      "artist": "Jesse & Joy",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Jesse & Joy Corre"
+    },
+    {
+      "id": "613706210e91a376313d74a1",
+      "title": "We're Not Gonna Take It",
+      "artist": "Twisted Sister",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Twisted Sister We're Not Gonna Take It"
+    },
+    {
+      "id": "614c37200233ee4a2be788d1",
+      "title": "Lean On Me (preview)",
+      "artist": "Bill Withers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Bill Withers Lean On Me (preview)"
+    },
+    {
+      "id": "614c3814f52f2a48940c0c78",
+      "title": "Wanted (preview)",
+      "artist": "Hunter Hayes",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Hunter Hayes Wanted (preview)"
+    },
+    {
+      "id": "614c3909f52f2a48940c0c82",
+      "title": "Don't Worry Be Happy (preview)",
+      "artist": "Bobby McFerrin",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Bobby McFerrin Don't Worry Be Happy (preview)"
+    },
+    {
+      "id": "614c39c40233ee4a2be788eb",
+      "title": "Sailing (preview)",
+      "artist": "Rod Stewart",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Rod Stewart Sailing (preview)"
+    },
+    {
+      "id": "614c456ff52f2a48940c0caf",
+      "title": "Hallowed Be Thy Name",
+      "artist": "Iron Maiden",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Iron Maiden Hallowed Be Thy Name"
+    },
+    {
+      "id": "614c4682f52f2a48940c0cbd",
+      "title": "Bark At The Moon",
+      "artist": "Ozzy Osbourne",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Ozzy Osbourne Bark At The Moon"
+    },
+    {
+      "id": "614c47360233ee4a2be78922",
+      "title": "Me Enamora",
+      "artist": "Juanes",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Juanes Me Enamora"
+    },
+    {
+      "id": "614c4ce50233ee4a2be7893e",
+      "title": "A Dios Le Pido",
+      "artist": "Juanes",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Juanes A Dios Le Pido"
+    },
+    {
+      "id": "614c4d6c0233ee4a2be78948",
+      "title": "Es Por Ti",
+      "artist": "Juanes",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Juanes Es Por Ti"
+    },
+    {
+      "id": "61547ce571a5613a094c2696",
+      "title": "The Scientist (preview)",
+      "artist": "Coldplay",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Coldplay The Scientist (preview)"
+    },
+    {
+      "id": "6156d275afbdc4d85cccfa65",
+      "title": "Right Here Waiting (preview)",
+      "artist": "Richard Marx",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Richard Marx Right Here Waiting (preview)"
+    },
+    {
+      "id": "6156f175afbdc4d85cccfab6",
+      "title": "bad guy (preview)",
+      "artist": "Billie Eilish",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Billie Eilish bad guy (preview)"
+    },
+    {
+      "id": "615ac1be71a5613a094c29f9",
+      "title": "Falling",
+      "artist": "Harry Styles",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Harry Styles Falling"
+    },
+    {
+      "id": "6160565ff28c228d6651b367",
+      "title": "In The End (preview)",
+      "artist": "Linkin Park",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Linkin Park In The End (preview)"
+    },
+    {
+      "id": "6184e949c1e2638331e8df3e",
+      "title": "Para Tu Amor",
+      "artist": "Juanes",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Juanes Para Tu Amor"
+    },
+    {
+      "id": "618caa7e89f82aaec374f7c6",
+      "title": "Make You Feel My Love",
+      "artist": "Adele",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Adele Make You Feel My Love"
+    },
+    {
+      "id": "618cab54c0e2a0c834fa249f",
+      "title": "Knockin' On Heaven's Door",
+      "artist": "Bob Dylan",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Bob Dylan Knockin' On Heaven's Door"
+    },
+    {
+      "id": "618caddb89f82aaec374f7d5",
+      "title": "Feliz Navidad",
+      "artist": "Jose Feliciano",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Jose Feliciano Feliz Navidad"
+    },
+    {
+      "id": "618cb076c0e2a0c834fa24b6",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "The Weeknd Blinding Lights"
+    },
+    {
+      "id": "618cc04ec0e2a0c834fa24c3",
+      "title": "I See Fire",
+      "artist": "Ed Sheeran",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Ed Sheeran I See Fire"
+    },
+    {
+      "id": "6194e81a27d78debc0f6b3be",
+      "title": "Still Got The Blues",
+      "artist": "Gary Moore",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Gary Moore Still Got The Blues"
+    },
+    {
+      "id": "61a4b5f5659f59eff44a0974",
+      "title": "You Never Can Tell",
+      "artist": "Chuck Berry",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Chuck Berry You Never Can Tell"
+    },
+    {
+      "id": "61b0a947696c2762be4331bc",
+      "title": "Jump",
+      "artist": "Van Halen",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Van Halen Jump"
+    },
+    {
+      "id": "61b0aa283a428cf5b7aeec58",
+      "title": "Leave The Door Open",
+      "artist": "Silk Sonic",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Silk Sonic Leave The Door Open"
+    },
+    {
+      "id": "61b0ab65696c2762be4331d1",
+      "title": "Three Little Birds",
+      "artist": "Bob Marley",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Bob Marley Three Little Birds"
+    },
+    {
+      "id": "6196e0f83ad8da212747aedd",
+      "title": "Driving Home For Christmas",
+      "artist": "Chris Rea",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Chris Rea Driving Home For Christmas"
+    },
+    {
+      "id": "617fdcfa2beaaf14994d30a4",
+      "title": "Stressed Out",
+      "artist": "Twenty One Pilots",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Twenty One Pilots Stressed Out"
+    },
+    {
+      "id": "617fdcff2beaaf14994d30c9",
+      "title": "A Horse With No Name",
+      "artist": "America",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "America A Horse With No Name"
+    },
+    {
+      "id": "619207511b2a3d34eff48370",
+      "title": "Cats In The Cradle",
+      "artist": "Ugly Kid Joe",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Ugly Kid Joe Cats In The Cradle"
+    },
+    {
+      "id": "61c1f0102656a3cdf92d9a96",
+      "title": "Dreamer",
+      "artist": "Ozzy Osbourne",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Ozzy Osbourne Dreamer"
+    },
+    {
+      "id": "61c1ed1c206c0946816df607",
+      "title": "Let It Go",
+      "artist": "James Bay",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "James Bay Let It Go"
+    },
+    {
+      "id": "617f9cda16e2499a9f91ced0",
+      "title": "I Will Follow You Into The Dark",
+      "artist": "Death Cab For Cutie",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Death Cab For Cutie I Will Follow You Into The Dark"
+    },
+    {
+      "id": "62025ab1daa723d3a5c8d11d",
+      "title": "Heaven",
+      "artist": "Bryan Adams",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Bryan Adams Heaven"
+    },
+    {
+      "id": "6139dc7e12f74402f24c5617",
+      "title": "For What It's Worth",
+      "artist": "Buffalo Springfield",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Buffalo Springfield For What It's Worth"
+    },
+    {
+      "id": "610a936eb1a997cc7521d559",
+      "title": "Where Is My Mind",
+      "artist": "Pixies",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Pixies Where Is My Mind"
+    },
+    {
+      "id": "61c1ed36206c0946816df639",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Carly Rae Jepsen Call Me Maybe"
+    },
+    {
+      "id": "610a1f0fb2bfba5e54dbd88e",
+      "title": "Somewhere Only We Know",
+      "artist": "Keane",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Keane Somewhere Only We Know"
+    },
+    {
+      "id": "61c0e982773c491a5b7848d0",
+      "title": "Dream On",
+      "artist": "Aerosmith",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Aerosmith Dream On"
+    },
+    {
+      "id": "61c1ef1b2656a3cdf92d98be",
+      "title": "Lady In Black",
+      "artist": "Uriah Heep",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Uriah Heep Lady In Black"
+    },
+    {
+      "id": "61c466c540ffd003bcef631f",
+      "title": "Panama",
+      "artist": "Van Halen",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Van Halen Panama"
+    },
+    {
+      "id": "61c1ed05206c0946816df5db",
+      "title": "Viva La Vida",
+      "artist": "Coldplay",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Coldplay Viva La Vida"
+    },
+    {
+      "id": "606d6a1793fbe637769fc479",
+      "title": "Wicked Game",
+      "artist": "Chris Isaak",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Chris Isaak Wicked Game"
+    },
+    {
+      "id": "61b964a71d2bf834f228373e",
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Eagles Hotel California"
+    },
+    {
+      "id": "607552a9040c2c36b1af3406",
+      "title": "Dreams",
+      "artist": "Fleetwood Mac",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Fleetwood Mac Dreams"
+    },
+    {
+      "id": "61c1edbd2656a3cdf92d9624",
+      "title": "Sex on Fire",
+      "artist": "Kings Of Leon",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Kings Of Leon Sex on Fire"
+    },
+    {
+      "id": "60b75a4a93ebaa8b4a2a1c26",
+      "title": "Every Breath You Take",
+      "artist": "The Police",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "The Police Every Breath You Take"
+    },
+    {
+      "id": "606d9d17c6f331124fad5036",
+      "title": "Home",
+      "artist": "Edward Sharpe & the Magnetic Zeros",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Edward Sharpe & the Magnetic Zeros Home"
+    },
+    {
+      "id": "60b5efacf42a98f1cd5837d3",
+      "title": "Jar Of Hearts",
+      "artist": "Christina Perri",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Christina Perri Jar Of Hearts"
+    },
+    {
+      "id": "607697fc779feb5b79848d76",
+      "title": "Don't Speak",
+      "artist": "No Doubt",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "No Doubt Don't Speak"
+    },
+    {
+      "id": "60bcbda82e841e18c63b4cb6",
+      "title": "Holiday",
+      "artist": "Green Day",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Green Day Holiday"
+    },
+    {
+      "id": "606ecd2a5c7c715b751d8bdf",
+      "title": "Naive",
+      "artist": "The Kooks",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "The Kooks Naive"
+    },
+    {
+      "id": "61e81d208efb83d3abe3835c",
+      "title": "Fade To Black",
+      "artist": "Metallica",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Metallica Fade To Black"
+    },
+    {
+      "id": "61c1ef9a2656a3cdf92d99b4",
+      "title": "Mama Said",
+      "artist": "Metallica",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Metallica Mama Said"
+    },
+    {
+      "id": "60e5bcfd9616f7ab45fae67a",
+      "title": "One",
+      "artist": "Metallica",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Metallica One"
+    },
+    {
+      "id": "61ba138c8d6bbf93911b8fd6",
+      "title": "Master Of Puppets",
+      "artist": "Metallica",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Metallica Master Of Puppets"
+    },
+    {
+      "id": "61c3e06b29d4734d906f699a",
+      "title": "Welcome Home (Sanitarium)",
+      "artist": "Metallica",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Metallica Welcome Home (Sanitarium)"
+    },
+    {
+      "id": "61ba145b35f37650ecfdcfc4",
+      "title": "Battery",
+      "artist": "Metallica",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Metallica Battery"
+    },
+    {
+      "id": "61be1692cefea56bff136cea",
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Imagine Dragons Believer"
+    },
+    {
+      "id": "606c567e040c2c36b1991b1f",
+      "title": "Jumper",
+      "artist": "Third Eye Blind",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Third Eye Blind Jumper"
+    },
+    {
+      "id": "61c1ed22206c0946816df612",
+      "title": "Tears In Heaven",
+      "artist": "Eric Clapton",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Eric Clapton Tears In Heaven"
+    },
+    {
+      "id": "61136a4310f1cd0b0b87281c",
+      "title": "When You Were Young",
+      "artist": "The Killers",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "The Killers When You Were Young"
+    },
+    {
+      "id": "611c8f019b963abc576a6fdf",
+      "title": "Common People",
+      "artist": "Pulp",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Pulp Common People"
+    },
+    {
+      "id": "615c247a1f7b094bad613f73",
+      "title": "Emmylou",
+      "artist": "First Aid Kit",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "First Aid Kit Emmylou"
+    },
+    {
+      "id": "610783498d1a5c794cbb64dc",
+      "title": "Runaway",
+      "artist": "Del Shannon",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Del Shannon Runaway"
+    },
+    {
+      "id": "611a2d36f89781813e5e4da6",
+      "title": "Lost On You",
+      "artist": "LP",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "LP Lost On You"
+    },
+    {
+      "id": "6125d03c323c0371a03bdbe2",
+      "title": "Kiss Me",
+      "artist": "Sixpence None The Richer",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Sixpence None The Richer Kiss Me"
+    },
+    {
+      "id": "61ddcdd1adcb992ac4e8ac3b",
+      "title": "Hero",
+      "artist": "Enrique Iglesias",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Enrique Iglesias Hero"
+    },
+    {
+      "id": "6136123c6e0868ed42f1a41c",
+      "title": "Runaway Train",
+      "artist": "Soul Asylum",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Soul Asylum Runaway Train"
+    },
+    {
+      "id": "6114c1afd6a5532d13610ecd",
+      "title": "What I Got",
+      "artist": "Sublime",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Sublime What I Got"
+    },
+    {
+      "id": "62bbec7558e9bb86765f2da0",
+      "title": "I Love Rock 'N Roll",
+      "artist": "Joan Jett & The Blackhearts",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Joan Jett & The Blackhearts I Love Rock 'N Roll"
+    },
+    {
+      "id": "60c8d0cd7e02a050aa2b5cdd",
+      "title": "Fallin'",
+      "artist": "Alicia Keys",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Alicia Keys Fallin'"
+    },
+    {
+      "id": "6124e70480fcbc3a47dbb531",
+      "title": "Here Comes The Sun",
+      "artist": "The Beatles",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "The Beatles Here Comes The Sun"
+    },
+    {
+      "id": "61c1ed1e206c0946816df60a",
+      "title": "While My Guitar Gently Weeps",
+      "artist": "The Beatles",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "The Beatles While My Guitar Gently Weeps"
+    },
+    {
+      "id": "61c1ed4a206c0946816df65f",
+      "title": "Set Fire To The Rain",
+      "artist": "Adele",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Adele Set Fire To The Rain"
+    },
+    {
+      "id": "60bf52279c599a0bb9d93bc1",
+      "title": "Fields of Gold",
+      "artist": "Sting",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Sting Fields of Gold"
+    },
+    {
+      "id": "611e14678bc03f542448d46a",
+      "title": "All I Ask",
+      "artist": "Adele",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Adele All I Ask"
+    },
+    {
+      "id": "62d7f17d7953eef9185d7edb",
+      "title": "The Boys Of Summer",
+      "artist": "Don Henley",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Don Henley The Boys Of Summer"
+    },
+    {
+      "id": "60743d3778ee9e0d56c41f7e",
+      "title": "No Surprises",
+      "artist": "Radiohead",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Radiohead No Surprises"
+    },
+    {
+      "id": "61c1edf62656a3cdf92d9692",
+      "title": "No Woman No Cry",
+      "artist": "Bob Marley and the Wailers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Bob Marley and the Wailers No Woman No Cry"
+    },
+    {
+      "id": "62f62ae281446c2cde375b54",
+      "title": "Home",
+      "artist": "Michael Bublé",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Michael Bublé Home"
+    },
+    {
+      "id": "60b7278e2e1084a7be8d2837",
+      "title": "If I Ain't Got You",
+      "artist": "Alicia Keys",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Alicia Keys If I Ain't Got You"
+    },
+    {
+      "id": "61c1edbc2656a3cdf92d9622",
+      "title": "The Cave",
+      "artist": "Mumford & Sons",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Mumford & Sons The Cave"
+    },
+    {
+      "id": "61370f456dbd37f52e66a588",
+      "title": "Kids",
+      "artist": "MGMT",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "MGMT Kids"
+    },
+    {
+      "id": "612dcedf42ef682cb517edd2",
+      "title": "Bad Day",
+      "artist": "Daniel Powter",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Daniel Powter Bad Day"
+    },
+    {
+      "id": "60c2146df16a64799ad19f76",
+      "title": "Learn To Fly",
+      "artist": "Foo Fighters",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Foo Fighters Learn To Fly"
+    },
+    {
+      "id": "61c1ed09206c0946816df5e2",
+      "title": "Fix You",
+      "artist": "Coldplay",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Coldplay Fix You"
+    },
+    {
+      "id": "61c1ef482656a3cdf92d9916",
+      "title": "Trouble",
+      "artist": "Coldplay",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Coldplay Trouble"
+    },
+    {
+      "id": "61c1ede62656a3cdf92d9674",
+      "title": "Desperado",
+      "artist": "Eagles",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Eagles Desperado"
+    },
+    {
+      "id": "610e1a5aa9e98ba8b9148977",
+      "title": "Mr. Tambourine Man",
+      "artist": "Bob Dylan",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Bob Dylan Mr. Tambourine Man"
+    },
+    {
+      "id": "610be60e2506a157f0bae1fc",
+      "title": "The Times They Are A-Changin'",
+      "artist": "Bob Dylan",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Bob Dylan The Times They Are A-Changin'"
+    },
+    {
+      "id": "610a346762082e4cc9deec46",
+      "title": "Blowin' In The Wind",
+      "artist": "Bob Dylan",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Bob Dylan Blowin' In The Wind"
+    },
+    {
+      "id": "60b5dc1b10a218ce1ee7af2a",
+      "title": "Don't Look Back In Anger",
+      "artist": "Oasis",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Oasis Don't Look Back In Anger"
+    },
+    {
+      "id": "61c1f2b72656a3cdf92d9fc2",
+      "title": "If I Had A Million Dollars",
+      "artist": "Barenaked Ladies",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Barenaked Ladies If I Had A Million Dollars"
+    },
+    {
+      "id": "61c382bb29d4734d906d79f5",
+      "title": "Smoke On The Water",
+      "artist": "Deep Purple",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Deep Purple Smoke On The Water"
+    },
+    {
+      "id": "60b76c872e1084a7be8dbfbb",
+      "title": "Dust In The Wind",
+      "artist": "Kansas",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Kansas Dust In The Wind"
+    },
+    {
+      "id": "61c1ee4e2656a3cdf92d9738",
+      "title": "Angels",
+      "artist": "Robbie Williams",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Robbie Williams Angels"
+    },
+    {
+      "id": "61b067ff2b228802ee957e47",
+      "title": "Chiquitita",
+      "artist": "ABBA",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "ABBA Chiquitita"
+    },
+    {
+      "id": "61265fb3498f27f72a4ecb0e",
+      "title": "Dance Monkey",
+      "artist": "Tones And I",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Tones And I Dance Monkey"
+    },
+    {
+      "id": "60b88455bf5027bdd46d9a11",
+      "title": "Englishman In New York",
+      "artist": "Sting",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Sting Englishman In New York"
+    },
+    {
+      "id": "63511bc6d129ccc8df789622",
+      "title": "I Shot The Sheriff",
+      "artist": "Bob Marley",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Bob Marley I Shot The Sheriff"
+    },
+    {
+      "id": "6217a87c7d0e3fa4285bf40e",
+      "title": "Pretty Savage",
+      "artist": "Blackpink",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Blackpink Pretty Savage"
+    },
+    {
+      "id": "61c1ee292656a3cdf92d96f3",
+      "title": "Always",
+      "artist": "Bon Jovi",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Bon Jovi Always"
+    },
+    {
+      "id": "610e610318e5fffa4a75cb3b",
+      "title": "Bed Of Roses",
+      "artist": "Bon Jovi",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Bon Jovi Bed Of Roses"
+    },
+    {
+      "id": "61c1f1bb2656a3cdf92d9dd6",
+      "title": "Blaze Of Glory",
+      "artist": "Bon Jovi",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Bon Jovi Blaze Of Glory"
+    },
+    {
+      "id": "6217a8907d0e3fa4285bf460",
+      "title": "DDU-DU DDU-DU",
+      "artist": "Blackpink",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Blackpink DDU-DU DDU-DU"
+    },
+    {
+      "id": "606ec278ada64bb9ce953dfd",
+      "title": "Budapest",
+      "artist": "George Ezra",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "George Ezra Budapest"
+    },
+    {
+      "id": "60b60b91064840718706dd36",
+      "title": "Drops Of Jupiter",
+      "artist": "Train",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Train Drops Of Jupiter"
+    },
+    {
+      "id": "61c1edfd2656a3cdf92d969f",
+      "title": "Linger",
+      "artist": "The Cranberries",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "The Cranberries Linger"
+    },
+    {
+      "id": "60bf6b696de02f5d7f6be8f5",
+      "title": "Roxanne",
+      "artist": "The Police",
+      "images": "../src/assets/band_1.jpg",
+      "level": 9,
+      "search": "The Police Roxanne"
+    },
+    {
+      "id": "6148282a9593bd69b3c63394",
+      "title": "1979",
+      "artist": "The Smashing Pumpkins",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "The Smashing Pumpkins 1979"
+    },
+    {
+      "id": "61c1ef1e2656a3cdf92d98c4",
+      "title": "Should I Stay Or Should I Go",
+      "artist": "The Clash",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "The Clash Should I Stay Or Should I Go"
+    },
+    {
+      "id": "61c1f1032656a3cdf92d9c6e",
+      "title": "London Calling",
+      "artist": "The Clash",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "The Clash London Calling"
+    },
+    {
+      "id": "61410b7791261b074040ee3e",
+      "title": "When I Come Around",
+      "artist": "Green Day",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Green Day When I Come Around"
+    },
+    {
+      "id": "61c1ee672656a3cdf92d9769",
+      "title": "Just The Way You Are",
+      "artist": "Billy Joel",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Billy Joel Just The Way You Are"
+    },
+    {
+      "id": "6125fa9f0ac20bf8ce79c5cf",
+      "title": "A Thousand Years",
+      "artist": "Christina Perri",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Christina Perri A Thousand Years"
+    },
+    {
+      "id": "610fa426ebcb2dbad912fc9d",
+      "title": "More Than A Feeling",
+      "artist": "Boston",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Boston More Than A Feeling"
+    },
+    {
+      "id": "61c1ee6d2656a3cdf92d9773",
+      "title": "If I Were A Boy",
+      "artist": "Beyoncé",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Beyoncé If I Were A Boy"
+    },
+    {
+      "id": "60a74215b40bf0be3c2ef0b7",
+      "title": "Hallelujah",
+      "artist": "Leonard Cohen",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Leonard Cohen Hallelujah"
+    },
+    {
+      "id": "60b4c413292dfb614eecf3aa",
+      "title": "Let Her Go",
+      "artist": "Passenger",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Passenger Let Her Go"
+    },
+    {
+      "id": "60c0eaba0de54e3758b80ce6",
+      "title": "Unintended",
+      "artist": "Muse",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Muse Unintended"
+    },
+    {
+      "id": "60c4f99599c5a7b906d804cc",
+      "title": "New Shoes",
+      "artist": "Paolo Nutini",
+      "images": "../src/assets/band_2.jpg",
+      "level": 13,
+      "search": "Paolo Nutini New Shoes"
+    },
+    {
+      "id": "63d3b0add2ba7ddafc7047ee",
+      "title": "The Bends",
+      "artist": "Radiohead",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Radiohead The Bends"
+    },
+    {
+      "id": "60c9aff9bef445b01788355c",
+      "title": "Listen To The Music",
+      "artist": "The Doobie Brothers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "The Doobie Brothers Listen To The Music"
+    },
+    {
+      "id": "60c71407c4b4d080b7a81351",
+      "title": "Far Away",
+      "artist": "Nickelback",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "Nickelback Far Away"
+    },
+    {
+      "id": "60c799d2234a1dc39e55afaf",
+      "title": "Slide",
+      "artist": "Goo Goo Dolls",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Goo Goo Dolls Slide"
+    },
+    {
+      "id": "60be70b545f75b86f355516c",
+      "title": "I'm Gonna Be (500 Miles)",
+      "artist": "The Proclaimers",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "The Proclaimers I'm Gonna Be (500 Miles)"
+    },
+    {
+      "id": "60e0d369ea35f6a1eca1e892",
+      "title": "Put Your Records On",
+      "artist": "Corinne Bailey Rae",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Corinne Bailey Rae Put Your Records On"
+    },
+    {
+      "id": "60c8479c551a8abb6e433e12",
+      "title": "If You Could Read My Mind",
+      "artist": "Gordon Lightfoot",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Gordon Lightfoot If You Could Read My Mind"
+    },
+    {
+      "id": "60b896945a2a44f187a76826",
+      "title": "The Blower's Daughter",
+      "artist": "Damien Rice",
+      "images": "../src/assets/band_1.jpg",
+      "level": 5,
+      "search": "Damien Rice The Blower's Daughter"
+    },
+    {
+      "id": "60be1e2e5caecf20fc837e92",
+      "title": "Sister Golden Hair",
+      "artist": "America",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "America Sister Golden Hair"
+    },
+    {
+      "id": "60bc70a61503e660be09fefe",
+      "title": "Last Request",
+      "artist": "Paolo Nutini",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Paolo Nutini Last Request"
+    },
+    {
+      "id": "6117b0babc8f1a4721736141",
+      "title": "Ode To My Family",
+      "artist": "The Cranberries",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "The Cranberries Ode To My Family"
+    },
+    {
+      "id": "60c8bd6ebef445b017864e40",
+      "title": "My Heart",
+      "artist": "Paramore",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Paramore My Heart"
+    },
+    {
+      "id": "60bfd06ed121a001bca01435",
+      "title": "Rockstar",
+      "artist": "Nickelback",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Nickelback Rockstar"
+    },
+    {
+      "id": "60c771a8ff4db60ed9052962",
+      "title": "The Middle",
+      "artist": "Jimmy Eat World",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Jimmy Eat World The Middle"
+    },
+    {
+      "id": "606d6b3f93fbe637769fc6e1",
+      "title": "Fake Plastic Trees",
+      "artist": "Radiohead",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Radiohead Fake Plastic Trees"
+    },
+    {
+      "id": "61135d4c3784c543bfac4e18",
+      "title": "Lightning Crashes",
+      "artist": "Live",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Live Lightning Crashes"
+    },
+    {
+      "id": "61c1efd92656a3cdf92d9a2d",
+      "title": "Heartbeats",
+      "artist": "José González",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "José González Heartbeats"
+    },
+    {
+      "id": "6070396bbbb7ca76aa1faf66",
+      "title": "Stubborn Love",
+      "artist": "The Lumineers",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "The Lumineers Stubborn Love"
+    },
+    {
+      "id": "611212f8dfc1378ccee44a9a",
+      "title": "New Slang",
+      "artist": "The Shins",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "The Shins New Slang"
+    },
+    {
+      "id": "60742e3c78ee9e0d56c3f1fa",
+      "title": "Basket Case",
+      "artist": "Green Day",
+      "images": "../src/assets/band_1.jpg",
+      "level": 8,
+      "search": "Green Day Basket Case"
+    },
+    {
+      "id": "61ae2c7afa492744d128d50a",
+      "title": "White Winter Hymnal",
+      "artist": "Fleet Foxes",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Fleet Foxes White Winter Hymnal"
+    },
+    {
+      "id": "6153ee081aaf5ad29d232672",
+      "title": "I Need A Dollar",
+      "artist": "Aloe Blacc",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Aloe Blacc I Need A Dollar"
+    },
+    {
+      "id": "61c1ed44206c0946816df654",
+      "title": "Wherever You Will Go",
+      "artist": "The Calling",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "The Calling Wherever You Will Go"
+    },
+    {
+      "id": "60c9b58bd108c6e5c2bbaa78",
+      "title": "This I Promise You",
+      "artist": "*NSYNC",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "*NSYNC This I Promise You"
+    },
+    {
+      "id": "60d060c6682d2c5f116e435b",
+      "title": "Walk",
+      "artist": "Foo Fighters",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Foo Fighters Walk"
+    },
+    {
+      "id": "61c1f0b82656a3cdf92d9bdc",
+      "title": "Mercy",
+      "artist": "Duffy",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Duffy Mercy"
+    },
+    {
+      "id": "611fb045008f08bd2217d462",
+      "title": "Hey, Soul Sister",
+      "artist": "Train",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Train Hey, Soul Sister"
+    },
+    {
+      "id": "614dbc91b52756d80bbb9722",
+      "title": "Neon Moon",
+      "artist": "Brooks & Dunn",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "Brooks & Dunn Neon Moon"
+    },
+    {
+      "id": "60c48843f2ffde86c777dbfb",
+      "title": "There She Goes",
+      "artist": "The La's",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "The La's There She Goes"
+    },
+    {
+      "id": "61605512fbd1689afa9bad05",
+      "title": "Lucky Man",
+      "artist": "The Verve",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "The Verve Lucky Man"
+    },
+    {
+      "id": "60c09f9e80b4fdbe376c48b6",
+      "title": "Sex and Candy",
+      "artist": "Marcy Playground",
+      "images": "../src/assets/band_1.jpg",
+      "level": 15,
+      "search": "Marcy Playground Sex and Candy"
+    },
+    {
+      "id": "611e28d9c542b4a9545c7543",
+      "title": "Never Tear Us Apart",
+      "artist": "INXS",
+      "images": "../src/assets/band_1.jpg",
+      "level": 2,
+      "search": "INXS Never Tear Us Apart"
+    },
+    {
+      "id": "61c1f0392656a3cdf92d9ae7",
+      "title": "Cake By The Ocean",
+      "artist": "DNCE",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "DNCE Cake By The Ocean"
+    },
+    {
+      "id": "612f05d49fed852c4ec78a16",
+      "title": "Big Iron",
+      "artist": "Marty Robbins ",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Marty Robbins  Big Iron"
+    },
+    {
+      "id": "618239bc32d3980ec1225a9d",
+      "title": "What You Know",
+      "artist": "Two Door Cinema Club",
+      "images": "../src/assets/band_1.jpg",
+      "level": 1,
+      "search": "Two Door Cinema Club What You Know"
+    },
+    {
+      "id": "614b0553ea2694df78efca5f",
+      "title": "The Funeral",
+      "artist": "Band of Horses",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Band of Horses The Funeral"
+    },
+    {
+      "id": "60d3ac163aa6887adbc9b2d2",
+      "title": "Your Love",
+      "artist": "The Outfield",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "The Outfield Your Love"
+    },
+    {
+      "id": "61953669866011135519eb19",
+      "title": "Mmmbop",
+      "artist": "Hanson",
+      "images": "../src/assets/band_1.jpg",
+      "level": 10,
+      "search": "Hanson Mmmbop"
+    },
+    {
+      "id": "615ad8e5e66c761cc661e54d",
+      "title": "Spirits",
+      "artist": "The Strumbellas",
+      "images": "../src/assets/band_2.jpg",
+      "level": 4,
+      "search": "The Strumbellas Spirits"
+    },
+    {
+      "id": "61309a809fed852c4ecadf91",
+      "title": "My Kind Of Woman",
+      "artist": "Mac DeMarco",
+      "images": "../src/assets/band_1.jpg",
+      "level": 3,
+      "search": "Mac DeMarco My Kind Of Woman"
+    },
+    {
+      "id": "6199b088b1a7d512ddd3b5e6",
+      "title": "Wake Me Up Before You Go-Go",
+      "artist": "Wham!",
+      "images": "../src/assets/band_1.jpg",
+      "level": 14,
+      "search": "Wham! Wake Me Up Before You Go-Go"
+    },
+    {
+      "id": "606ee1ffada64bb9ce958c45",
+      "title": "Seaside",
+      "artist": "The Kooks",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "The Kooks Seaside"
+    },
+    {
+      "id": "61c1efde2656a3cdf92d9a38",
+      "title": "The Less I Know The Better",
+      "artist": "Tame Impala",
+      "images": "../src/assets/band_1.jpg",
+      "level": 11,
+      "search": "Tame Impala The Less I Know The Better"
+    },
+    {
+      "id": "613f1156e16d073b6067c679",
+      "title": "Six Feet Under",
+      "artist": "Billie Eilish",
+      "images": "../src/assets/band_2.jpg",
+      "level": 6,
+      "search": "Billie Eilish Six Feet Under"
+    },
+    {
+      "id": "60d960b58e0c322dc5876fcf",
+      "title": "Many Of Horror",
+      "artist": "Biffy Clyro",
+      "images": "../src/assets/band_1.jpg",
+      "level": 7,
+      "search": "Biffy Clyro Many Of Horror"
+    },
+    {
+      "id": "611b58a1950f92111fc33966",
+      "title": "Wheels",
+      "artist": "Foo Fighters",
+      "images": "../src/assets/band_1.jpg",
+      "level": 12,
+      "search": "Foo Fighters Wheels"
+    }
+  ],
+  "favorites": [
+    {
+      "songId": "5b8e4745b3984c68ed819287",
+      "id": "rBqjHPr"
+    },
+    {
+      "songId": "5b8e4637b3984c68ed8191d5",
+      "id": "NGVNmAd"
+    },
+    {
+      "songId": "5b8e4595b3984c68ed819177",
+      "id": "NNICDGH"
+    },
+    {
+      "songId": "5b152559e8dec30152a1eefe",
+      "id": "5k431Pz"
+    },
+    {
+      "songId": "5b8e465ab3984c68ed8191ed",
+      "id": "u9ZOEif"
+    },
+    {
+      "songId": "5b8e4748b3984c68ed819289",
+      "id": "m59lDek"
+    },
+    {
+      "songId": "5b8e454db3984c68ed819147",
+      "id": "0Ziwocl"
+    }
+  ]
+}

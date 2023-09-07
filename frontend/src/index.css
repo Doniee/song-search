@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  #root {
+    @apply flex min-h-screen;
+  }
+}
+
+@layer components {
+  .loading-dot {
+    @apply w-1 h-1 rounded-full bg-grey-1;
+    animation: dot ease-in-out 1.2s infinite;
+  }
+
+  .loading-dot:nth-of-type(2) {
+    animation-delay: 0.2s;
+  }
+
+  .loading-dot:nth-of-type(3) {
+    animation-delay: 0.4s;
+  }
+
+  @keyframes dot {
+    0% {
+      transform: scale(1);
+    }
+    40% {
+      transform: scale(2);
+    }
+    60% {
+      transform: scale(1);
+    }
+  }
+}
+
+@layer utilities {
+  .focus-outline {
+    @apply rounded-full focus:outline-none focus-visible:outline-2 focus-visible:outline-grey-1;
+  }
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-weight: 700;
+  src: url('./assets/fonts/Lato/Lato-Bold.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-weight: 400;
+  src: url('./assets/fonts/Lato/Lato-Regular.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-weight: 300;
+  src: url('./assets/fonts/Lato/Lato-Light.ttf') format('truetype');
+  font-display: swap;
+}
