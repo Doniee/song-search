@@ -1,4 +1,4 @@
-# React assignment
+# Song search
 
 Implementation of a frontend assignment to build a site that lists songs provided by a json-server backend. The songs can be searched, filtered by level and added to or removed from favorites. The backend was given and the frontend implemented by me.
 
